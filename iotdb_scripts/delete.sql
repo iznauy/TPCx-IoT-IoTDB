@@ -1,0 +1,1 @@
+delete storage group root.sg0;delete storage group root.sg1;delete storage group root.sg2;delete storage group root.sg3;delete storage group root.sg4;delete storage group root.sg5;delete storage group root.sg6;delete storage group root.sg7;delete storage group root.sg8;delete storage group root.sg9;

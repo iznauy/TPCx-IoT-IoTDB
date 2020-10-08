@@ -31,4 +31,4 @@ readallfields=true
 requestdistribution=uniform
 threadcount=100
 insertstart=0
-operationcount=300000000
+operationcount=50000000

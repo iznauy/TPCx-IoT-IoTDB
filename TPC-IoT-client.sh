@@ -24,7 +24,7 @@ echo -e "${green} Running TPCx-IoT Benchmark Suite - Run $i - Epoch $start ${NC}
 echo -e "${green} TPCx-IoT Version ${version} ${NC}" | tee -a $PWD/logs/TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
 echo -e "${green}$sep${NC}" | tee -a $PWD/logs/TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
 echo "" | tee -a $PWD/logs/TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
-echo -e "${green}Starting IoT Run $i output being return to $PWD/logs/IoT-run-time-$LOGFILE_NAME$i.txt ${NC}" | tee -a ./TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
+echo -e "${green}Starting IoT Run $i output being return to $PWD/logs/IoT-run-time-$LOGFILE_NAME$i.txt ${NC}" | tee -a $PWD/TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
 echo "" | tee -a $PWD/logs/TPCx-IoT-result-"$prefix"-"$clientId-$LOGFILE_NAME$i".log
 
 # Command for running workload IoT based on the YCSB params
@@ -34,6 +34,8 @@ INSERT_START=$(echo $start_string | cut -d'=' -f2)
 operation_count_string=`grep operationcount $PWD/tpcx-iot/workloads/$WORKLOAD`
 DATABASE_RECORDS_COUNT=$(echo $operation_count_string | cut -d'=' -f2)
 # Invoke the instance.sh here. 
+
+echo -e "${green}data client:${DATABASE_CLIENT}" | tee -a $PWD/TPCx-IoT-result-"$prefix".log
 
 echo ">>>>>>>> $PWD/TPC-IoT-instances.sh $DATABASE_RECORDS_COUNT $NUM_INSTANCES $NUM_THREADS $INSERT_START $clientId $DATABASE_CLIENT $LOGFILE_NAME"
 $PWD/TPC-IoT-instances.sh $DATABASE_RECORDS_COUNT $NUM_INSTANCES $NUM_THREADS $INSERT_START $clientId $DATABASE_CLIENT $PWD $SUT_PARAMETERS $LOGFILE_NAME

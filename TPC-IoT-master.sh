@@ -25,7 +25,7 @@
 shopt -s expand_aliases
 
 source ./Benchmark_Parameters.sh
-source ./Benchmark_Macros.sh
+source ./Benchmark_Macros_IoTDB.sh
 
 version="1.0.5"
 
@@ -73,7 +73,7 @@ then
    echo "" | tee -a ./TPCx-IoT-result-"$prefix".log
    echo "" | tee -a ./TPCx-IoT-result-"$prefix".log
 
-   source ./IoT_cluster_validate_suite.sh | tee -a ./TPCx-IoT-result-"$prefix".log
+   #source ./IoT_cluster_validate_suite.sh | tee -a ./TPCx-IoT-result-"$prefix".log
 
    echo "" | tee -a ./TPCx-IoT-result-"$prefix".log
    echo -e "${green} End of Cluster Validation Suite${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
@@ -100,7 +100,7 @@ echo $CHECK_IF_TABLE_EXISTS | $SUT_SHELL > log
 cat log | grep "Table $IOT_DATA_TABLE does exist"
 if [ $? != 0 ]
 then
-echo $CREATE_TABLE | $SUT_SHELL
+eval $CREATE_TABLE | $SUT_SHELL
 else
 echo -e "${green}**** Table already exists, will not recreate *****" | tee -a ./TPCx-IoT-result-"$prefix".log
 fi
@@ -149,7 +149,7 @@ benchmark_result=1
 # Data Delete
 echo -e "${green}$sep${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
 echo -e "${green}Deleting Previous Data - Start - `date`${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
-echo $TRUNCATE_TABLE | $SUT_SHELL
+#eval $TRUNCATE_TABLE | $SUT_SHELL
 
 sleep $SLEEP_BETWEEN_RUNS
 echo -e "${green}Deleting Previous Data - End - `date`${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
@@ -176,7 +176,7 @@ for k in `cat driver_host_list.txt`;
 do
 t=$(clush -w $k -B "grep 'Total Time' $PWD/logs/TPCx-IoT-result-$prefix-$k-warmup$i.log")
 echo $t
-n=$(echo $t|awk '{print $13}')
+n=$(echo $t|awk '{print $24}')
  if (( $(bc <<< "$n > $max") ))
  then
     max="$n"
@@ -205,8 +205,9 @@ max=0
 for k in `cat driver_host_list.txt`;
 do
 t=$(clush -w $k -B "grep 'Total Time' $PWD/logs/TPCx-IoT-result-$prefix-$k-run$i.log")
-#echo $t
+ echo -e "${green}t:${t}"
 n=$(echo $t|awk '{print $13}')
+ echo -e "${green}n:${n}"
  if (( $(bc <<< "$n > $max") ))
  then
     max="$n"
@@ -240,7 +241,7 @@ echo -e "${green}Starting count of rows in table ${NC}"| tee -a ./TPCx-IoT-resul
 
 source ./IoTDataRowCount.sh $i
 # Get the row count from the database output and compare with the input size
-#num_rows=$(cat logs/IoTValidate-time-run$i.txt | grep $ROW_COUNT | awk -F = '{print $2;}')
+num_rows=$(cat logs/IoTValidate-time-run$i.txt | grep $ROW_COUNT | awk -F = '{print $2;}')
 if [ "$num_rows" -lt "$DATABASE_RECORDS_COUNT" ]; then
  echo -e  "${red}Data Validation Failure === Run result is not ok, not all records were inserted row count is different ${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
  echo -e  "${yellow} - Inserted count :${NC} $num_rows" | tee -a ./TPCx-IoT-result-"$prefix".log
@@ -265,9 +266,9 @@ then
  echo -e "${red}$sep${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
  echo -e "${red}No Performance Metric (IoTps) as run time or warm up run time is less than 30 minutes ${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
  echo -e "${red}$sep${NC}" | tee -a ./TPCx-IoT-result-"$prefix".log
- benchmark_result=0
 fi
 
+echo -e "${green}${benchmark_result}"
 
 if (($benchmark_result == 1))
 then
