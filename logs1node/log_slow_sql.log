@@ -1,0 +1,8 @@
+2020-11-13 12:47:29,832 [pool-6-IoTDB-RPC-Client-thread-121] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 7287 ms, sql is  
+2020-11-13 12:48:11,656 [pool-6-IoTDB-RPC-Client-thread-105] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 7535 ms, sql is  
+2020-11-13 12:49:40,724 [pool-6-IoTDB-RPC-Client-thread-46] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 6400 ms, sql is  
+2020-11-13 13:02:03,648 [pool-6-IoTDB-RPC-Client-thread-209] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 5495 ms, sql is  
+2020-11-13 13:02:03,670 [pool-6-IoTDB-RPC-Client-thread-1] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 5504 ms, sql is  
+2020-11-13 13:21:14,832 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 764344 ms, sql is select count(*) from root group by level=0 
+2020-11-13 13:24:53,138 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 46354 ms, sql is select count(*) from root.tpc11 
+2020-11-13 13:26:31,268 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:756 - Cost: 46359 ms, sql is select count(*) from root.tpc113 

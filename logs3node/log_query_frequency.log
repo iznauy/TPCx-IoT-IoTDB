@@ -1,0 +1,9 @@
+2020-11-13 14:45:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 5471 
+2020-11-13 14:46:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 10557 
+2020-11-13 14:47:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 10441 
+2020-11-13 14:48:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 7678 
+2020-11-13 14:49:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 10512 
+2020-11-13 14:51:01,494 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 5078 
+2020-11-13 14:51:52,218 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 3759 
+2020-11-13 14:52:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 6512 
+2020-11-13 14:53:48,146 [timedQuerySqlCountThread] INFO  org.apache.iotdb.db.service.TSServiceImpl:204 - Query count in current 1 minute: 26 

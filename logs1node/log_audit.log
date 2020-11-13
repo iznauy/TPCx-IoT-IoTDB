@@ -1,0 +1,646 @@
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-49] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-24 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-88] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-88 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-115] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-95 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-77] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-61 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-85] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-30 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-51] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-45 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-19] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-43 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-80] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-64 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-8] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-6 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-59] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-84 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-12] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-66 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-6] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-85 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-23] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-52 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-4] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-39 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-47] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-62 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-83] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-22 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-72] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-56 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-74] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-38 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-9] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-82 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-2] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-57 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-16] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-15 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-86] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-65 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-56] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-5 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-11] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-2 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-24] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-53 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-61] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-98 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-26] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-72 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-18] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-87 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-40] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-4 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-50] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-112 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-30] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-107 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-97] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-42 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-75] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-69 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-63] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-28 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-82] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-100 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-73] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-26 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-41] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-34 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-58] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-29 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-105] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-3 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-7] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-19 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-98] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-71 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-95] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-101 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-64] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-46 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-32] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-1 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-33] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-20 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-76] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-35 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-62] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-115 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-13] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-67 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-35] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-18 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-28] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-12 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-107] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-106 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-22] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-50 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-90] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-54 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-67] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-76 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-29] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-37 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-21] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-9 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-102] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-41 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-108] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-102 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-54] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-89 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-10] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-81 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-100] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-70 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-89] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-114 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-78] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-27 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-14] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-60 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-15] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-10 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-103] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-68 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-60] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-32 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-55] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-90 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-34] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-92 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-38] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-55 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-110] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-36 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-101] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-110 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-70] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-104 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-1] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-80 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-111] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-105 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-92] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-47 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-44] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-25 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-69] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-23 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-84] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-113 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-45] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-93 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-31] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-109 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-87] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-79 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-57] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-74 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-48] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-8 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-71] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-7 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-43] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-94 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-65] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-14 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-94] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-111 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-114] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-96 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-46] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-48 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-81] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-16 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-93] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-103 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-112] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-99 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-27] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-40 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-99] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-77 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-36] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-86 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-104] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-73 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-96] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-108 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-3] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-78 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-113] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-97 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-5] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-59 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-66] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-63 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-53] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-58 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-44 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-17] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-13 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-37] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-21 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-68] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-91 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-20] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-33 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-42] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-49 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-39] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-51 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-52] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-75 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-91] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-17 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-79] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-83 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-109] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-31 
+2020-11-13 12:46:24,524 [pool-6-IoTDB-RPC-Client-thread-106] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-11 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-119] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-117 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-120] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-119 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-118] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-116 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-122] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-118 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-121] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-121 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-116] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-122 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-117] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-120 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-124] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-125 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-125] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-124 
+2020-11-13 12:46:24,530 [pool-6-IoTDB-RPC-Client-thread-123] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-123 
+2020-11-13 12:46:24,537 [pool-6-IoTDB-RPC-Client-thread-126] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-126 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-133] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-127 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-127] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-128 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-135] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-134 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-132] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-133 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-134] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-130 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-129] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-131 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-128] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-129 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-130] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-135 
+2020-11-13 12:46:24,538 [pool-6-IoTDB-RPC-Client-thread-131] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-132 
+2020-11-13 12:46:24,542 [pool-6-IoTDB-RPC-Client-thread-143] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-137 
+2020-11-13 12:46:24,543 [pool-6-IoTDB-RPC-Client-thread-139] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-141 
+2020-11-13 12:46:24,542 [pool-6-IoTDB-RPC-Client-thread-142] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-136 
+2020-11-13 12:46:24,542 [pool-6-IoTDB-RPC-Client-thread-136] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-139 
+2020-11-13 12:46:24,542 [pool-6-IoTDB-RPC-Client-thread-137] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-138 
+2020-11-13 12:46:24,542 [pool-6-IoTDB-RPC-Client-thread-141] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-140 
+2020-11-13 12:46:24,543 [pool-6-IoTDB-RPC-Client-thread-145] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-143 
+2020-11-13 12:46:24,543 [pool-6-IoTDB-RPC-Client-thread-144] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-144 
+2020-11-13 12:46:24,543 [pool-6-IoTDB-RPC-Client-thread-138] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-142 
+2020-11-13 12:46:24,543 [pool-6-IoTDB-RPC-Client-thread-140] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-145 
+2020-11-13 12:46:25,510 [pool-6-IoTDB-RPC-Client-thread-154] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-146 
+2020-11-13 12:46:25,510 [pool-6-IoTDB-RPC-Client-thread-152] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-147 
+2020-11-13 12:46:25,512 [pool-6-IoTDB-RPC-Client-thread-148] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-148 
+2020-11-13 12:46:25,512 [pool-6-IoTDB-RPC-Client-thread-158] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-149 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-156] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-150 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-153] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-151 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-159] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-152 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-157] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-153 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-146] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-154 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-155] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-155 
+2020-11-13 12:46:25,515 [pool-6-IoTDB-RPC-Client-thread-150] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-156 
+2020-11-13 12:46:25,516 [pool-6-IoTDB-RPC-Client-thread-149] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-157 
+2020-11-13 12:46:25,518 [pool-6-IoTDB-RPC-Client-thread-160] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-158 
+2020-11-13 12:46:25,518 [pool-6-IoTDB-RPC-Client-thread-147] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-159 
+2020-11-13 12:46:25,520 [pool-6-IoTDB-RPC-Client-thread-151] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-160 
+2020-11-13 12:49:07,139 [pool-6-IoTDB-RPC-Client-thread-45] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-93 is closing 
+2020-11-13 12:49:14,857 [pool-6-IoTDB-RPC-Client-thread-73] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-26 is closing 
+2020-11-13 12:50:18,256 [pool-6-IoTDB-RPC-Client-thread-125] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-124 is closing 
+2020-11-13 12:50:29,210 [pool-6-IoTDB-RPC-Client-thread-70] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-104 is closing 
+2020-11-13 12:50:30,144 [pool-6-IoTDB-RPC-Client-thread-138] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-142 is closing 
+2020-11-13 12:50:39,814 [pool-6-IoTDB-RPC-Client-thread-122] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-118 is closing 
+2020-11-13 12:50:46,104 [pool-6-IoTDB-RPC-Client-thread-86] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-65 is closing 
+2020-11-13 12:50:47,175 [pool-6-IoTDB-RPC-Client-thread-129] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-131 is closing 
+2020-11-13 12:51:11,506 [pool-6-IoTDB-RPC-Client-thread-89] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-114 is closing 
+2020-11-13 12:51:14,258 [pool-6-IoTDB-RPC-Client-thread-51] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-45 is closing 
+2020-11-13 12:52:27,664 [pool-6-IoTDB-RPC-Client-thread-97] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-42 is closing 
+2020-11-13 12:52:31,272 [pool-6-IoTDB-RPC-Client-thread-46] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-48 is closing 
+2020-11-13 12:52:32,689 [pool-6-IoTDB-RPC-Client-thread-56] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-5 is closing 
+2020-11-13 12:52:36,116 [pool-6-IoTDB-RPC-Client-thread-96] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-108 is closing 
+2020-11-13 12:52:42,277 [pool-6-IoTDB-RPC-Client-thread-103] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-68 is closing 
+2020-11-13 12:52:43,708 [pool-6-IoTDB-RPC-Client-thread-88] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-88 is closing 
+2020-11-13 12:52:46,172 [pool-6-IoTDB-RPC-Client-thread-105] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-3 is closing 
+2020-11-13 12:52:52,464 [pool-6-IoTDB-RPC-Client-thread-91] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-17 is closing 
+2020-11-13 12:52:53,698 [pool-6-IoTDB-RPC-Client-thread-31] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-109 is closing 
+2020-11-13 12:53:04,593 [pool-6-IoTDB-RPC-Client-thread-153] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-151 is closing 
+2020-11-13 12:53:08,838 [pool-6-IoTDB-RPC-Client-thread-26] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-72 is closing 
+2020-11-13 12:53:09,791 [pool-6-IoTDB-RPC-Client-thread-100] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-70 is closing 
+2020-11-13 12:53:11,477 [pool-6-IoTDB-RPC-Client-thread-139] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-141 is closing 
+2020-11-13 12:53:15,275 [pool-6-IoTDB-RPC-Client-thread-131] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-132 is closing 
+2020-11-13 12:53:17,231 [pool-6-IoTDB-RPC-Client-thread-66] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-63 is closing 
+2020-11-13 12:53:17,517 [pool-6-IoTDB-RPC-Client-thread-135] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-134 is closing 
+2020-11-13 12:53:20,369 [pool-6-IoTDB-RPC-Client-thread-30] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-107 is closing 
+2020-11-13 12:53:20,913 [pool-6-IoTDB-RPC-Client-thread-102] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-41 is closing 
+2020-11-13 12:53:20,926 [pool-6-IoTDB-RPC-Client-thread-15] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-10 is closing 
+2020-11-13 12:53:20,935 [pool-6-IoTDB-RPC-Client-thread-47] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-62 is closing 
+2020-11-13 12:53:31,561 [pool-6-IoTDB-RPC-Client-thread-24] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-53 is closing 
+2020-11-13 12:53:32,241 [pool-6-IoTDB-RPC-Client-thread-10] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-81 is closing 
+2020-11-13 12:53:32,463 [pool-6-IoTDB-RPC-Client-thread-136] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-139 is closing 
+2020-11-13 12:53:33,433 [pool-6-IoTDB-RPC-Client-thread-72] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-56 is closing 
+2020-11-13 12:53:34,704 [pool-6-IoTDB-RPC-Client-thread-43] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-94 is closing 
+2020-11-13 12:53:35,683 [pool-6-IoTDB-RPC-Client-thread-36] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-86 is closing 
+2020-11-13 12:53:38,966 [pool-6-IoTDB-RPC-Client-thread-113] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-97 is closing 
+2020-11-13 12:53:41,616 [pool-6-IoTDB-RPC-Client-thread-44] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-25 is closing 
+2020-11-13 12:53:41,997 [pool-6-IoTDB-RPC-Client-thread-128] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-129 is closing 
+2020-11-13 12:53:42,127 [pool-6-IoTDB-RPC-Client-thread-64] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-46 is closing 
+2020-11-13 12:53:54,995 [pool-6-IoTDB-RPC-Client-thread-149] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-157 is closing 
+2020-11-13 12:53:55,896 [pool-6-IoTDB-RPC-Client-thread-106] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-11 is closing 
+2020-11-13 12:54:10,703 [pool-6-IoTDB-RPC-Client-thread-69] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-23 is closing 
+2020-11-13 12:54:11,591 [pool-6-IoTDB-RPC-Client-thread-61] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-98 is closing 
+2020-11-13 12:54:13,225 [pool-6-IoTDB-RPC-Client-thread-29] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-37 is closing 
+2020-11-13 12:54:13,289 [pool-6-IoTDB-RPC-Client-thread-67] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-76 is closing 
+2020-11-13 12:54:15,839 [pool-6-IoTDB-RPC-Client-thread-107] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-106 is closing 
+2020-11-13 12:54:15,920 [pool-6-IoTDB-RPC-Client-thread-40] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-4 is closing 
+2020-11-13 12:54:16,208 [pool-6-IoTDB-RPC-Client-thread-143] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-137 is closing 
+2020-11-13 12:54:17,251 [pool-6-IoTDB-RPC-Client-thread-2] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-57 is closing 
+2020-11-13 12:54:17,500 [pool-6-IoTDB-RPC-Client-thread-115] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-95 is closing 
+2020-11-13 12:54:19,527 [pool-6-IoTDB-RPC-Client-thread-35] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-18 is closing 
+2020-11-13 12:54:19,727 [pool-6-IoTDB-RPC-Client-thread-52] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-75 is closing 
+2020-11-13 12:54:19,996 [pool-6-IoTDB-RPC-Client-thread-147] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-159 is closing 
+2020-11-13 12:54:22,547 [pool-6-IoTDB-RPC-Client-thread-85] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-30 is closing 
+2020-11-13 12:54:29,903 [pool-6-IoTDB-RPC-Client-thread-63] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-28 is closing 
+2020-11-13 12:54:30,620 [pool-6-IoTDB-RPC-Client-thread-34] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-92 is closing 
+2020-11-13 12:54:30,735 [pool-6-IoTDB-RPC-Client-thread-92] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-47 is closing 
+2020-11-13 12:54:31,406 [pool-6-IoTDB-RPC-Client-thread-32] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-1 is closing 
+2020-11-13 12:54:31,728 [pool-6-IoTDB-RPC-Client-thread-57] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-74 is closing 
+2020-11-13 12:54:32,024 [pool-6-IoTDB-RPC-Client-thread-65] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-14 is closing 
+2020-11-13 12:54:32,485 [pool-6-IoTDB-RPC-Client-thread-68] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-91 is closing 
+2020-11-13 12:54:32,680 [pool-6-IoTDB-RPC-Client-thread-5] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-59 is closing 
+2020-11-13 12:54:33,629 [pool-6-IoTDB-RPC-Client-thread-17] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-13 is closing 
+2020-11-13 12:54:34,566 [pool-6-IoTDB-RPC-Client-thread-19] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-43 is closing 
+2020-11-13 12:54:35,039 [pool-6-IoTDB-RPC-Client-thread-126] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-126 is closing 
+2020-11-13 12:54:35,375 [pool-6-IoTDB-RPC-Client-thread-83] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-22 is closing 
+2020-11-13 12:54:35,532 [pool-6-IoTDB-RPC-Client-thread-16] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-15 is closing 
+2020-11-13 12:54:35,702 [pool-6-IoTDB-RPC-Client-thread-38] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-55 is closing 
+2020-11-13 12:54:36,538 [pool-6-IoTDB-RPC-Client-thread-110] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-36 is closing 
+2020-11-13 12:54:37,612 [pool-6-IoTDB-RPC-Client-thread-48] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-8 is closing 
+2020-11-13 12:54:37,615 [pool-6-IoTDB-RPC-Client-thread-77] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-61 is closing 
+2020-11-13 12:54:37,654 [pool-6-IoTDB-RPC-Client-thread-18] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-87 is closing 
+2020-11-13 12:54:38,005 [pool-6-IoTDB-RPC-Client-thread-112] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-99 is closing 
+2020-11-13 12:54:38,339 [pool-6-IoTDB-RPC-Client-thread-6] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-85 is closing 
+2020-11-13 12:54:38,641 [pool-6-IoTDB-RPC-Client-thread-62] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-115 is closing 
+2020-11-13 12:54:39,146 [pool-6-IoTDB-RPC-Client-thread-28] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-12 is closing 
+2020-11-13 12:54:39,571 [pool-6-IoTDB-RPC-Client-thread-144] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-144 is closing 
+2020-11-13 12:54:40,421 [pool-6-IoTDB-RPC-Client-thread-159] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-152 is closing 
+2020-11-13 12:54:41,806 [pool-6-IoTDB-RPC-Client-thread-20] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-33 is closing 
+2020-11-13 12:54:41,865 [pool-6-IoTDB-RPC-Client-thread-117] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-120 is closing 
+2020-11-13 12:54:42,205 [pool-6-IoTDB-RPC-Client-thread-158] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-149 is closing 
+2020-11-13 12:54:43,246 [pool-6-IoTDB-RPC-Client-thread-23] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-52 is closing 
+2020-11-13 12:54:45,818 [pool-6-IoTDB-RPC-Client-thread-134] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-130 is closing 
+2020-11-13 12:54:49,031 [pool-6-IoTDB-RPC-Client-thread-22] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-50 is closing 
+2020-11-13 12:54:50,106 [pool-6-IoTDB-RPC-Client-thread-116] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-122 is closing 
+2020-11-13 12:54:51,148 [pool-6-IoTDB-RPC-Client-thread-59] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-84 is closing 
+2020-11-13 12:54:52,940 [pool-6-IoTDB-RPC-Client-thread-121] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-121 is closing 
+2020-11-13 12:54:53,424 [pool-6-IoTDB-RPC-Client-thread-151] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-160 is closing 
+2020-11-13 12:54:53,794 [pool-6-IoTDB-RPC-Client-thread-76] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-35 is closing 
+2020-11-13 12:54:55,097 [pool-6-IoTDB-RPC-Client-thread-33] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-20 is closing 
+2020-11-13 12:54:55,766 [pool-6-IoTDB-RPC-Client-thread-84] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-113 is closing 
+2020-11-13 12:54:59,708 [pool-6-IoTDB-RPC-Client-thread-157] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-153 is closing 
+2020-11-13 12:55:02,031 [pool-6-IoTDB-RPC-Client-thread-142] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-136 is closing 
+2020-11-13 12:55:02,517 [pool-6-IoTDB-RPC-Client-thread-108] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-102 is closing 
+2020-11-13 12:55:02,758 [pool-6-IoTDB-RPC-Client-thread-109] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-31 is closing 
+2020-11-13 12:55:02,938 [pool-6-IoTDB-RPC-Client-thread-156] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-150 is closing 
+2020-11-13 12:55:04,205 [pool-6-IoTDB-RPC-Client-thread-74] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-38 is closing 
+2020-11-13 12:55:04,866 [pool-6-IoTDB-RPC-Client-thread-160] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-158 is closing 
+2020-11-13 12:55:05,829 [pool-6-IoTDB-RPC-Client-thread-98] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-71 is closing 
+2020-11-13 12:55:06,453 [pool-6-IoTDB-RPC-Client-thread-90] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-54 is closing 
+2020-11-13 12:55:06,863 [pool-6-IoTDB-RPC-Client-thread-120] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-119 is closing 
+2020-11-13 12:55:07,309 [pool-6-IoTDB-RPC-Client-thread-7] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-19 is closing 
+2020-11-13 12:55:08,743 [pool-6-IoTDB-RPC-Client-thread-130] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-135 is closing 
+2020-11-13 12:55:10,516 [pool-6-IoTDB-RPC-Client-thread-124] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-125 is closing 
+2020-11-13 12:55:12,097 [pool-6-IoTDB-RPC-Client-thread-148] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-148 is closing 
+2020-11-13 12:55:12,258 [pool-6-IoTDB-RPC-Client-thread-58] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-29 is closing 
+2020-11-13 12:55:13,302 [pool-6-IoTDB-RPC-Client-thread-99] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-77 is closing 
+2020-11-13 12:55:14,667 [pool-6-IoTDB-RPC-Client-thread-60] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-32 is closing 
+2020-11-13 12:55:14,753 [pool-6-IoTDB-RPC-Client-thread-94] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-111 is closing 
+2020-11-13 12:55:14,937 [pool-6-IoTDB-RPC-Client-thread-11] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-2 is closing 
+2020-11-13 12:55:17,048 [pool-6-IoTDB-RPC-Client-thread-4] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-39 is closing 
+2020-11-13 12:55:17,132 [pool-6-IoTDB-RPC-Client-thread-137] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-138 is closing 
+2020-11-13 12:55:21,804 [pool-6-IoTDB-RPC-Client-thread-82] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-100 is closing 
+2020-11-13 12:55:21,820 [pool-6-IoTDB-RPC-Client-thread-155] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-155 is closing 
+2020-11-13 12:55:22,085 [pool-6-IoTDB-RPC-Client-thread-75] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-69 is closing 
+2020-11-13 12:55:22,933 [pool-6-IoTDB-RPC-Client-thread-27] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-40 is closing 
+2020-11-13 12:55:24,716 [pool-6-IoTDB-RPC-Client-thread-41] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-34 is closing 
+2020-11-13 12:55:27,911 [pool-6-IoTDB-RPC-Client-thread-152] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-147 is closing 
+2020-11-13 12:55:29,605 [pool-6-IoTDB-RPC-Client-thread-42] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-49 is closing 
+2020-11-13 12:55:29,749 [pool-6-IoTDB-RPC-Client-thread-101] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-110 is closing 
+2020-11-13 12:55:30,013 [pool-6-IoTDB-RPC-Client-thread-14] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-60 is closing 
+2020-11-13 12:55:36,260 [pool-6-IoTDB-RPC-Client-thread-119] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-117 is closing 
+2020-11-13 12:55:48,133 [pool-6-IoTDB-RPC-Client-thread-123] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-123 is closing 
+2020-11-13 12:55:48,211 [pool-6-IoTDB-RPC-Client-thread-154] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-146 is closing 
+2020-11-13 12:55:49,033 [pool-6-IoTDB-RPC-Client-thread-78] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-27 is closing 
+2020-11-13 12:55:50,719 [pool-6-IoTDB-RPC-Client-thread-3] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-78 is closing 
+2020-11-13 12:55:51,102 [pool-6-IoTDB-RPC-Client-thread-53] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-58 is closing 
+2020-11-13 12:55:52,300 [pool-6-IoTDB-RPC-Client-thread-140] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-145 is closing 
+2020-11-13 12:55:54,928 [pool-6-IoTDB-RPC-Client-thread-150] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-156 is closing 
+2020-11-13 12:55:55,844 [pool-6-IoTDB-RPC-Client-thread-39] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-51 is closing 
+2020-11-13 12:55:56,549 [pool-6-IoTDB-RPC-Client-thread-145] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-143 is closing 
+2020-11-13 12:55:56,712 [pool-6-IoTDB-RPC-Client-thread-104] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-73 is closing 
+2020-11-13 12:55:57,465 [pool-6-IoTDB-RPC-Client-thread-81] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-16 is closing 
+2020-11-13 12:55:57,534 [pool-6-IoTDB-RPC-Client-thread-114] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-96 is closing 
+2020-11-13 12:55:58,249 [pool-6-IoTDB-RPC-Client-thread-118] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-116 is closing 
+2020-11-13 12:55:59,362 [pool-6-IoTDB-RPC-Client-thread-49] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-24 is closing 
+2020-11-13 12:55:59,652 [pool-6-IoTDB-RPC-Client-thread-93] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-103 is closing 
+2020-11-13 12:56:00,686 [pool-6-IoTDB-RPC-Client-thread-1] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-80 is closing 
+2020-11-13 12:56:00,868 [pool-6-IoTDB-RPC-Client-thread-8] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-6 is closing 
+2020-11-13 12:56:01,465 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-44 is closing 
+2020-11-13 12:56:01,804 [pool-6-IoTDB-RPC-Client-thread-37] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-21 is closing 
+2020-11-13 12:56:02,152 [pool-6-IoTDB-RPC-Client-thread-80] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-64 is closing 
+2020-11-13 12:56:02,959 [pool-6-IoTDB-RPC-Client-thread-54] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-89 is closing 
+2020-11-13 12:56:03,580 [pool-6-IoTDB-RPC-Client-thread-146] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-154 is closing 
+2020-11-13 12:56:03,649 [pool-6-IoTDB-RPC-Client-thread-87] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-79 is closing 
+2020-11-13 12:56:04,059 [pool-6-IoTDB-RPC-Client-thread-133] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-127 is closing 
+2020-11-13 12:56:04,350 [pool-6-IoTDB-RPC-Client-thread-127] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-128 is closing 
+2020-11-13 12:56:05,016 [pool-6-IoTDB-RPC-Client-thread-9] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-82 is closing 
+2020-11-13 12:56:05,451 [pool-6-IoTDB-RPC-Client-thread-50] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-112 is closing 
+2020-11-13 12:56:05,887 [pool-6-IoTDB-RPC-Client-thread-132] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-133 is closing 
+2020-11-13 12:56:05,963 [pool-6-IoTDB-RPC-Client-thread-79] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-83 is closing 
+2020-11-13 12:56:06,028 [pool-6-IoTDB-RPC-Client-thread-55] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-90 is closing 
+2020-11-13 12:56:06,097 [pool-6-IoTDB-RPC-Client-thread-71] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-7 is closing 
+2020-11-13 12:56:06,197 [pool-6-IoTDB-RPC-Client-thread-12] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-66 is closing 
+2020-11-13 12:56:06,608 [pool-6-IoTDB-RPC-Client-thread-13] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-67 is closing 
+2020-11-13 12:56:15,411 [pool-6-IoTDB-RPC-Client-thread-111] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-105 is closing 
+2020-11-13 12:56:17,516 [pool-6-IoTDB-RPC-Client-thread-95] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-101 is closing 
+2020-11-13 12:56:18,604 [pool-6-IoTDB-RPC-Client-thread-141] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-140 is closing 
+2020-11-13 12:56:19,579 [pool-6-IoTDB-RPC-Client-thread-21] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-9 is closing 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-55] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-161 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-13] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-162 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-127] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-163 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-50] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-167 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-79] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-166 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-12] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-169 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-9] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-165 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-132] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-170 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-133] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-164 
+2020-11-13 12:57:13,490 [pool-6-IoTDB-RPC-Client-thread-71] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-168 
+2020-11-13 12:57:13,491 [pool-6-IoTDB-RPC-Client-thread-87] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-171 
+2020-11-13 12:57:13,491 [pool-6-IoTDB-RPC-Client-thread-150] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-172 
+2020-11-13 12:57:13,491 [pool-6-IoTDB-RPC-Client-thread-145] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-173 
+2020-11-13 12:57:13,491 [pool-6-IoTDB-RPC-Client-thread-39] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-174 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-104] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-176 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-93] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-175 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-81] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-177 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-140] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-178 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-118] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-179 
+2020-11-13 12:57:13,492 [pool-6-IoTDB-RPC-Client-thread-114] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-180 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-54] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-181 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-1] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-182 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-190 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-8] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-183 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-80] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-184 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-53] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-185 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-146] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-186 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-3] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-187 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-49] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-188 
+2020-11-13 12:57:13,494 [pool-6-IoTDB-RPC-Client-thread-37] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-189 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-95] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-191 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-161] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-192 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-137] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-193 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-141] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-194 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-111] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-195 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-75] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-196 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-162] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-197 
+2020-11-13 12:57:13,497 [pool-6-IoTDB-RPC-Client-thread-82] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-198 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-170] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-199 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-164] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-200 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-21] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-205 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-166] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-208 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-169] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-211 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-155] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-201 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-27] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-202 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-41] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-203 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-154] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-204 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-168] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-206 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-165] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-207 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-171] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-209 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-163] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-210 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-172] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-212 
+2020-11-13 12:57:13,498 [pool-6-IoTDB-RPC-Client-thread-167] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-213 
+2020-11-13 12:57:13,499 [pool-6-IoTDB-RPC-Client-thread-42] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-214 
+2020-11-13 12:57:13,499 [pool-6-IoTDB-RPC-Client-thread-188] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-215 
+2020-11-13 12:57:13,499 [pool-6-IoTDB-RPC-Client-thread-181] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-216 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-78] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-222 
+2020-11-13 12:57:13,499 [pool-6-IoTDB-RPC-Client-thread-189] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-217 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-119] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-218 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-185] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-220 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-123] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-221 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-183] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-219 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-101] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-223 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-184] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-225 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-152] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-226 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-14] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-227 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-182] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-224 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-186] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-228 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-190] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-230 
+2020-11-13 12:57:13,500 [pool-6-IoTDB-RPC-Client-thread-187] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-229 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-178] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-231 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-191] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-232 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-192] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-233 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-175] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-238 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-176] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-234 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-177] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-235 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-180] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-236 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-179] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-237 
+2020-11-13 12:57:13,501 [pool-6-IoTDB-RPC-Client-thread-173] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-239 
+2020-11-13 12:57:13,507 [pool-6-IoTDB-RPC-Client-thread-174] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-240 
+2020-11-13 12:57:13,515 [pool-6-IoTDB-RPC-Client-thread-201] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-241 
+2020-11-13 12:57:13,515 [pool-6-IoTDB-RPC-Client-thread-195] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-242 
+2020-11-13 12:57:13,515 [pool-6-IoTDB-RPC-Client-thread-194] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-243 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-209] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-244 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-206] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-246 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-210] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-245 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-204] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-248 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-211] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-252 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-208] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-247 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-205] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-249 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-250 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-203] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-251 
+2020-11-13 12:57:13,518 [pool-6-IoTDB-RPC-Client-thread-207] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-253 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-199] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-254 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-197] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-256 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-196] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-255 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-193] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-257 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-198] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-258 
+2020-11-13 12:57:13,521 [pool-6-IoTDB-RPC-Client-thread-202] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-259 
+2020-11-13 12:57:13,522 [pool-6-IoTDB-RPC-Client-thread-200] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-260 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-215] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-261 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-216] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-263 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-222] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-267 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-217] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-262 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-214] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-264 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-227] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-272 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-229] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-276 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-213] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-265 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-220] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-266 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-221] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-268 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-218] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-269 
+2020-11-13 12:57:13,524 [pool-6-IoTDB-RPC-Client-thread-219] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-270 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-225] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-271 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-228] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-274 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-224] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-273 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-226] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-275 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-223] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-277 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-232] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-278 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-231] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-279 
+2020-11-13 12:57:13,525 [pool-6-IoTDB-RPC-Client-thread-230] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-280 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-239] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-281 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-238] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-282 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-235] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-283 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-241] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-284 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-234] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-285 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-240] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-286 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-236] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-287 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-237] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-288 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-242] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-289 
+2020-11-13 12:57:13,528 [pool-6-IoTDB-RPC-Client-thread-233] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-290 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-270] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-291 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-269] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-292 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-253] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-293 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-268] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-294 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-254] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-295 
+2020-11-13 12:57:13,533 [pool-6-IoTDB-RPC-Client-thread-266] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-296 
+2020-11-13 12:57:13,534 [pool-6-IoTDB-RPC-Client-thread-271] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-297 
+2020-11-13 12:57:13,535 [pool-6-IoTDB-RPC-Client-thread-243] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-298 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-263] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-299 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-259] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-300 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-262] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-301 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-255] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-302 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-260] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-305 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-265] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-309 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-261] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-303 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-258] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-304 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-256] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-306 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-264] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-307 
+2020-11-13 12:57:13,536 [pool-6-IoTDB-RPC-Client-thread-272] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-308 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-267] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-310 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-246] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-311 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-248] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-312 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-245] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-316 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-250] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-318 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-247] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-313 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-244] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-314 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-252] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-315 
+2020-11-13 12:57:13,537 [pool-6-IoTDB-RPC-Client-thread-249] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-317 
+2020-11-13 12:57:13,538 [pool-6-IoTDB-RPC-Client-thread-251] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-319 
+2020-11-13 12:57:13,538 [pool-6-IoTDB-RPC-Client-thread-257] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-320 
+2020-11-13 12:59:55,644 [pool-6-IoTDB-RPC-Client-thread-203] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-251 is closing 
+2020-11-13 13:00:58,600 [pool-6-IoTDB-RPC-Client-thread-193] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-257 is closing 
+2020-11-13 13:01:03,667 [pool-6-IoTDB-RPC-Client-thread-272] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-308 is closing 
+2020-11-13 13:01:19,011 [pool-6-IoTDB-RPC-Client-thread-227] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-272 is closing 
+2020-11-13 13:01:28,311 [pool-6-IoTDB-RPC-Client-thread-229] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-276 is closing 
+2020-11-13 13:01:30,170 [pool-6-IoTDB-RPC-Client-thread-254] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-295 is closing 
+2020-11-13 13:01:31,087 [pool-6-IoTDB-RPC-Client-thread-179] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-237 is closing 
+2020-11-13 13:01:31,922 [pool-6-IoTDB-RPC-Client-thread-95] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-191 is closing 
+2020-11-13 13:01:33,208 [pool-6-IoTDB-RPC-Client-thread-232] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-278 is closing 
+2020-11-13 13:01:35,661 [pool-6-IoTDB-RPC-Client-thread-87] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-171 is closing 
+2020-11-13 13:01:43,829 [pool-6-IoTDB-RPC-Client-thread-173] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-239 is closing 
+2020-11-13 13:01:55,081 [pool-6-IoTDB-RPC-Client-thread-3] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-187 is closing 
+2020-11-13 13:02:40,381 [pool-6-IoTDB-RPC-Client-thread-234] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-285 is closing 
+2020-11-13 13:02:43,371 [pool-6-IoTDB-RPC-Client-thread-217] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-262 is closing 
+2020-11-13 13:02:44,249 [pool-6-IoTDB-RPC-Client-thread-118] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-179 is closing 
+2020-11-13 13:02:44,707 [pool-6-IoTDB-RPC-Client-thread-208] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-247 is closing 
+2020-11-13 13:02:50,796 [pool-6-IoTDB-RPC-Client-thread-132] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-170 is closing 
+2020-11-13 13:02:51,700 [pool-6-IoTDB-RPC-Client-thread-194] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-243 is closing 
+2020-11-13 13:03:02,267 [pool-6-IoTDB-RPC-Client-thread-172] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-212 is closing 
+2020-11-13 13:03:02,377 [pool-6-IoTDB-RPC-Client-thread-161] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-192 is closing 
+2020-11-13 13:03:02,604 [pool-6-IoTDB-RPC-Client-thread-233] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-290 is closing 
+2020-11-13 13:03:03,331 [pool-6-IoTDB-RPC-Client-thread-164] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-200 is closing 
+2020-11-13 13:03:05,235 [pool-6-IoTDB-RPC-Client-thread-268] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-294 is closing 
+2020-11-13 13:03:08,155 [pool-6-IoTDB-RPC-Client-thread-189] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-217 is closing 
+2020-11-13 13:03:09,623 [pool-6-IoTDB-RPC-Client-thread-14] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-227 is closing 
+2020-11-13 13:03:09,717 [pool-6-IoTDB-RPC-Client-thread-226] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-275 is closing 
+2020-11-13 13:03:11,553 [pool-6-IoTDB-RPC-Client-thread-182] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-224 is closing 
+2020-11-13 13:03:13,422 [pool-6-IoTDB-RPC-Client-thread-216] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-263 is closing 
+2020-11-13 13:03:15,123 [pool-6-IoTDB-RPC-Client-thread-228] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-274 is closing 
+2020-11-13 13:03:16,327 [pool-6-IoTDB-RPC-Client-thread-49] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-188 is closing 
+2020-11-13 13:03:17,563 [pool-6-IoTDB-RPC-Client-thread-195] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-242 is closing 
+2020-11-13 13:03:18,306 [pool-6-IoTDB-RPC-Client-thread-205] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-249 is closing 
+2020-11-13 13:03:20,304 [pool-6-IoTDB-RPC-Client-thread-155] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-201 is closing 
+2020-11-13 13:03:25,526 [pool-6-IoTDB-RPC-Client-thread-261] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-303 is closing 
+2020-11-13 13:03:52,979 [pool-6-IoTDB-RPC-Client-thread-42] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-214 is closing 
+2020-11-13 13:03:53,644 [pool-6-IoTDB-RPC-Client-thread-246] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-311 is closing 
+2020-11-13 13:03:53,989 [pool-6-IoTDB-RPC-Client-thread-162] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-197 is closing 
+2020-11-13 13:03:54,037 [pool-6-IoTDB-RPC-Client-thread-258] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-304 is closing 
+2020-11-13 13:03:57,484 [pool-6-IoTDB-RPC-Client-thread-168] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-206 is closing 
+2020-11-13 13:03:57,915 [pool-6-IoTDB-RPC-Client-thread-78] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-222 is closing 
+2020-11-13 13:03:58,737 [pool-6-IoTDB-RPC-Client-thread-206] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-246 is closing 
+2020-11-13 13:03:59,715 [pool-6-IoTDB-RPC-Client-thread-79] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-166 is closing 
+2020-11-13 13:04:00,028 [pool-6-IoTDB-RPC-Client-thread-248] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-312 is closing 
+2020-11-13 13:04:00,890 [pool-6-IoTDB-RPC-Client-thread-214] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-264 is closing 
+2020-11-13 13:04:02,694 [pool-6-IoTDB-RPC-Client-thread-137] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-193 is closing 
+2020-11-13 13:04:05,170 [pool-6-IoTDB-RPC-Client-thread-82] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-198 is closing 
+2020-11-13 13:04:07,617 [pool-6-IoTDB-RPC-Client-thread-267] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-310 is closing 
+2020-11-13 13:04:08,497 [pool-6-IoTDB-RPC-Client-thread-167] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-213 is closing 
+2020-11-13 13:04:10,124 [pool-6-IoTDB-RPC-Client-thread-178] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-231 is closing 
+2020-11-13 13:04:10,291 [pool-6-IoTDB-RPC-Client-thread-183] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-219 is closing 
+2020-11-13 13:04:15,210 [pool-6-IoTDB-RPC-Client-thread-260] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-305 is closing 
+2020-11-13 13:04:17,727 [pool-6-IoTDB-RPC-Client-thread-71] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-168 is closing 
+2020-11-13 13:04:18,460 [pool-6-IoTDB-RPC-Client-thread-256] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-306 is closing 
+2020-11-13 13:04:19,173 [pool-6-IoTDB-RPC-Client-thread-271] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-297 is closing 
+2020-11-13 13:04:19,443 [pool-6-IoTDB-RPC-Client-thread-145] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-173 is closing 
+2020-11-13 13:04:21,661 [pool-6-IoTDB-RPC-Client-thread-222] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-267 is closing 
+2020-11-13 13:04:21,767 [pool-6-IoTDB-RPC-Client-thread-181] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-216 is closing 
+2020-11-13 13:04:24,557 [pool-6-IoTDB-RPC-Client-thread-198] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-258 is closing 
+2020-11-13 13:04:26,640 [pool-6-IoTDB-RPC-Client-thread-146] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-186 is closing 
+2020-11-13 13:04:27,107 [pool-6-IoTDB-RPC-Client-thread-262] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-301 is closing 
+2020-11-13 13:04:28,382 [pool-6-IoTDB-RPC-Client-thread-209] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-244 is closing 
+2020-11-13 13:04:28,440 [pool-6-IoTDB-RPC-Client-thread-269] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-292 is closing 
+2020-11-13 13:04:28,444 [pool-6-IoTDB-RPC-Client-thread-53] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-185 is closing 
+2020-11-13 13:04:29,000 [pool-6-IoTDB-RPC-Client-thread-200] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-260 is closing 
+2020-11-13 13:04:29,039 [pool-6-IoTDB-RPC-Client-thread-213] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-265 is closing 
+2020-11-13 13:04:30,416 [pool-6-IoTDB-RPC-Client-thread-249] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-317 is closing 
+2020-11-13 13:04:31,759 [pool-6-IoTDB-RPC-Client-thread-152] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-226 is closing 
+2020-11-13 13:04:33,698 [pool-6-IoTDB-RPC-Client-thread-9] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-165 is closing 
+2020-11-13 13:04:34,775 [pool-6-IoTDB-RPC-Client-thread-54] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-181 is closing 
+2020-11-13 13:04:35,490 [pool-6-IoTDB-RPC-Client-thread-224] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-273 is closing 
+2020-11-13 13:04:36,870 [pool-6-IoTDB-RPC-Client-thread-75] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-196 is closing 
+2020-11-13 13:04:36,984 [pool-6-IoTDB-RPC-Client-thread-154] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-204 is closing 
+2020-11-13 13:04:37,811 [pool-6-IoTDB-RPC-Client-thread-236] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-287 is closing 
+2020-11-13 13:04:43,509 [pool-6-IoTDB-RPC-Client-thread-12] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-169 is closing 
+2020-11-13 13:04:46,476 [pool-6-IoTDB-RPC-Client-thread-220] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-266 is closing 
+2020-11-13 13:04:47,149 [pool-6-IoTDB-RPC-Client-thread-114] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-180 is closing 
+2020-11-13 13:04:48,951 [pool-6-IoTDB-RPC-Client-thread-119] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-218 is closing 
+2020-11-13 13:04:48,972 [pool-6-IoTDB-RPC-Client-thread-177] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-235 is closing 
+2020-11-13 13:04:49,141 [pool-6-IoTDB-RPC-Client-thread-50] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-167 is closing 
+2020-11-13 13:04:49,361 [pool-6-IoTDB-RPC-Client-thread-252] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-315 is closing 
+2020-11-13 13:04:49,702 [pool-6-IoTDB-RPC-Client-thread-264] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-307 is closing 
+2020-11-13 13:04:50,287 [pool-6-IoTDB-RPC-Client-thread-257] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-320 is closing 
+2020-11-13 13:04:50,356 [pool-6-IoTDB-RPC-Client-thread-188] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-215 is closing 
+2020-11-13 13:04:52,235 [pool-6-IoTDB-RPC-Client-thread-255] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-302 is closing 
+2020-11-13 13:04:52,310 [pool-6-IoTDB-RPC-Client-thread-237] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-288 is closing 
+2020-11-13 13:04:52,556 [pool-6-IoTDB-RPC-Client-thread-1] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-182 is closing 
+2020-11-13 13:04:52,710 [pool-6-IoTDB-RPC-Client-thread-263] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-299 is closing 
+2020-11-13 13:04:52,871 [pool-6-IoTDB-RPC-Client-thread-187] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-229 is closing 
+2020-11-13 13:04:53,743 [pool-6-IoTDB-RPC-Client-thread-140] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-178 is closing 
+2020-11-13 13:04:54,590 [pool-6-IoTDB-RPC-Client-thread-221] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-268 is closing 
+2020-11-13 13:05:02,479 [pool-6-IoTDB-RPC-Client-thread-211] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-252 is closing 
+2020-11-13 13:05:03,093 [pool-6-IoTDB-RPC-Client-thread-127] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-163 is closing 
+2020-11-13 13:05:03,304 [pool-6-IoTDB-RPC-Client-thread-163] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-210 is closing 
+2020-11-13 13:05:06,077 [pool-6-IoTDB-RPC-Client-thread-242] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-289 is closing 
+2020-11-13 13:05:06,820 [pool-6-IoTDB-RPC-Client-thread-37] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-189 is closing 
+2020-11-13 13:05:06,876 [pool-6-IoTDB-RPC-Client-thread-225] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-271 is closing 
+2020-11-13 13:05:07,701 [pool-6-IoTDB-RPC-Client-thread-141] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-194 is closing 
+2020-11-13 13:05:07,791 [pool-6-IoTDB-RPC-Client-thread-169] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-211 is closing 
+2020-11-13 13:05:09,103 [pool-6-IoTDB-RPC-Client-thread-204] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-248 is closing 
+2020-11-13 13:05:10,474 [pool-6-IoTDB-RPC-Client-thread-190] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-230 is closing 
+2020-11-13 13:05:13,950 [pool-6-IoTDB-RPC-Client-thread-41] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-203 is closing 
+2020-11-13 13:05:13,962 [pool-6-IoTDB-RPC-Client-thread-197] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-256 is closing 
+2020-11-13 13:05:14,381 [pool-6-IoTDB-RPC-Client-thread-243] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-298 is closing 
+2020-11-13 13:05:21,164 [pool-6-IoTDB-RPC-Client-thread-199] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-254 is closing 
+2020-11-13 13:05:23,062 [pool-6-IoTDB-RPC-Client-thread-241] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-284 is closing 
+2020-11-13 13:05:23,915 [pool-6-IoTDB-RPC-Client-thread-186] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-228 is closing 
+2020-11-13 13:05:31,561 [pool-6-IoTDB-RPC-Client-thread-13] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-162 is closing 
+2020-11-13 13:05:32,391 [pool-6-IoTDB-RPC-Client-thread-230] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-280 is closing 
+2020-11-13 13:05:37,754 [pool-6-IoTDB-RPC-Client-thread-133] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-164 is closing 
+2020-11-13 13:05:38,953 [pool-6-IoTDB-RPC-Client-thread-235] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-283 is closing 
+2020-11-13 13:05:40,313 [pool-6-IoTDB-RPC-Client-thread-166] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-208 is closing 
+2020-11-13 13:05:41,929 [pool-6-IoTDB-RPC-Client-thread-174] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-240 is closing 
+2020-11-13 13:05:41,950 [pool-6-IoTDB-RPC-Client-thread-123] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-221 is closing 
+2020-11-13 13:05:41,956 [pool-6-IoTDB-RPC-Client-thread-191] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-232 is closing 
+2020-11-13 13:05:42,090 [pool-6-IoTDB-RPC-Client-thread-223] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-277 is closing 
+2020-11-13 13:05:42,389 [pool-6-IoTDB-RPC-Client-thread-150] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-172 is closing 
+2020-11-13 13:05:44,444 [pool-6-IoTDB-RPC-Client-thread-270] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-291 is closing 
+2020-11-13 13:05:44,685 [pool-6-IoTDB-RPC-Client-thread-104] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-176 is closing 
+2020-11-13 13:05:45,206 [pool-6-IoTDB-RPC-Client-thread-231] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-279 is closing 
+2020-11-13 13:05:45,848 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-250 is closing 
+2020-11-13 13:05:47,972 [pool-6-IoTDB-RPC-Client-thread-218] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-269 is closing 
+2020-11-13 13:06:01,640 [pool-6-IoTDB-RPC-Client-thread-240] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-286 is closing 
+2020-11-13 13:06:01,868 [pool-6-IoTDB-RPC-Client-thread-185] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-220 is closing 
+2020-11-13 13:06:02,133 [pool-6-IoTDB-RPC-Client-thread-251] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-319 is closing 
+2020-11-13 13:06:04,091 [pool-6-IoTDB-RPC-Client-thread-259] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-300 is closing 
+2020-11-13 13:06:04,626 [pool-6-IoTDB-RPC-Client-thread-201] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-241 is closing 
+2020-11-13 13:06:06,484 [pool-6-IoTDB-RPC-Client-thread-247] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-313 is closing 
+2020-11-13 13:06:06,523 [pool-6-IoTDB-RPC-Client-thread-266] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-296 is closing 
+2020-11-13 13:06:06,607 [pool-6-IoTDB-RPC-Client-thread-21] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-205 is closing 
+2020-11-13 13:06:06,863 [pool-6-IoTDB-RPC-Client-thread-184] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-225 is closing 
+2020-11-13 13:06:09,446 [pool-6-IoTDB-RPC-Client-thread-239] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-281 is closing 
+2020-11-13 13:06:11,165 [pool-6-IoTDB-RPC-Client-thread-8] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-183 is closing 
+2020-11-13 13:06:12,238 [pool-6-IoTDB-RPC-Client-thread-215] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-261 is closing 
+2020-11-13 13:06:14,586 [pool-6-IoTDB-RPC-Client-thread-219] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-270 is closing 
+2020-11-13 13:06:14,810 [pool-6-IoTDB-RPC-Client-thread-101] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-223 is closing 
+2020-11-13 13:06:14,950 [pool-6-IoTDB-RPC-Client-thread-180] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-236 is closing 
+2020-11-13 13:06:15,620 [pool-6-IoTDB-RPC-Client-thread-265] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-309 is closing 
+2020-11-13 13:06:16,198 [pool-6-IoTDB-RPC-Client-thread-111] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-195 is closing 
+2020-11-13 13:06:17,611 [pool-6-IoTDB-RPC-Client-thread-27] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-202 is closing 
+2020-11-13 13:06:17,749 [pool-6-IoTDB-RPC-Client-thread-171] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-209 is closing 
+2020-11-13 13:06:22,810 [pool-6-IoTDB-RPC-Client-thread-175] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-238 is closing 
+2020-11-13 13:06:23,324 [pool-6-IoTDB-RPC-Client-thread-207] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-253 is closing 
+2020-11-13 13:06:24,551 [pool-6-IoTDB-RPC-Client-thread-165] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-207 is closing 
+2020-11-13 13:06:26,653 [pool-6-IoTDB-RPC-Client-thread-170] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-199 is closing 
+2020-11-13 13:06:26,850 [pool-6-IoTDB-RPC-Client-thread-176] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-234 is closing 
+2020-11-13 13:06:27,028 [pool-6-IoTDB-RPC-Client-thread-238] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-282 is closing 
+2020-11-13 13:06:27,478 [pool-6-IoTDB-RPC-Client-thread-93] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-175 is closing 
+2020-11-13 13:06:27,581 [pool-6-IoTDB-RPC-Client-thread-80] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-184 is closing 
+2020-11-13 13:06:27,774 [pool-6-IoTDB-RPC-Client-thread-81] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-177 is closing 
+2020-11-13 13:06:28,077 [pool-6-IoTDB-RPC-Client-thread-245] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-316 is closing 
+2020-11-13 13:06:28,124 [pool-6-IoTDB-RPC-Client-thread-39] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-174 is closing 
+2020-11-13 13:06:28,816 [pool-6-IoTDB-RPC-Client-thread-196] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-255 is closing 
+2020-11-13 13:06:28,828 [pool-6-IoTDB-RPC-Client-thread-202] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-259 is closing 
+2020-11-13 13:06:28,974 [pool-6-IoTDB-RPC-Client-thread-253] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-293 is closing 
+2020-11-13 13:06:29,167 [pool-6-IoTDB-RPC-Client-thread-210] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-245 is closing 
+2020-11-13 13:06:29,225 [pool-6-IoTDB-RPC-Client-thread-250] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-318 is closing 
+2020-11-13 13:06:29,803 [pool-6-IoTDB-RPC-Client-thread-55] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-161 is closing 
+2020-11-13 13:06:32,056 [pool-6-IoTDB-RPC-Client-thread-244] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-314 is closing 
+2020-11-13 13:06:40,948 [pool-6-IoTDB-RPC-Client-thread-192] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-233 is closing 
+2020-11-13 13:06:41,329 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-190 is closing 
+2020-11-13 13:06:46,020 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-321 
+2020-11-13 13:21:14,887 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-321 is closing 
+2020-11-13 13:23:39,148 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-322 
+2020-11-13 13:24:37,202 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:251 - User root opens Session-323 
+2020-11-13 13:24:53,139 [pool-6-IoTDB-RPC-Client-thread-212] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-322 is closing 
+2020-11-13 13:28:56,517 [pool-6-IoTDB-RPC-Client-thread-25] INFO  org.apache.iotdb.db.service.TSServiceImpl:274 - Session-323 is closing 
