@@ -1,0 +1,254 @@
+
+ Running TPCx-IoT Benchmark Suite - Run 1 - Epoch 1605278901931 
+ TPCx-IoT Version  
+
+
+Starting IoT Run 1 output being return to /home/ubuntu/TPCx-IoT-IoTDB/logs/IoT-run-time-run1.txt 
+
+Run Result SUCCESS===All records can be queried and inserted 
+Enter client file
+
+ Running TPCx-IoT Benchmark Suite - Run 1 - Epoch 1605278901931 
+ TPCx-IoT Version  
+
+
+Starting IoT Run 1 output being return to /home/ubuntu/TPCx-IoT-IoTDB/logs/IoT-run-time-run1.txt 
+
+>>>>>>>> /home/ubuntu/TPCx-IoT-IoTDB/TPC-IoT-instances.sh 100000000 16 10 0 tpc1 iotdb run
+>>>>>>>>> entering instances
+intance Operation: 6250000
+instance Tread: 10
+1
+insertstart=0
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance1_workload -p iotdbinfo=server1:6667:5000 -p client=tpc11 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun1.dat &
+2
+insertstart=6250000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance2_workload -p iotdbinfo=server1:6667:5000 -p client=tpc12 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun2.dat &
+3
+insertstart=12500000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance3_workload -p iotdbinfo=server1:6667:5000 -p client=tpc13 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun3.dat &
+4
+insertstart=18750000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance4_workload -p iotdbinfo=server1:6667:5000 -p client=tpc14 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun4.dat &
+5
+insertstart=25000000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance5_workload -p iotdbinfo=server1:6667:5000 -p client=tpc15 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun5.dat &
+6
+insertstart=31250000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance6_workload -p iotdbinfo=server1:6667:5000 -p client=tpc16 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun6.dat &
+7
+insertstart=37500000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance7_workload -p iotdbinfo=server1:6667:5000 -p client=tpc17 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun7.dat &
+8
+insertstart=43750000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance8_workload -p iotdbinfo=server1:6667:5000 -p client=tpc18 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun8.dat &
+9
+insertstart=50000000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance9_workload -p iotdbinfo=server1:6667:5000 -p client=tpc19 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun9.dat &
+10
+insertstart=56250000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance10_workload -p iotdbinfo=server1:6667:5000 -p client=tpc110 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun10.dat &
+11
+insertstart=62500000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance11_workload -p iotdbinfo=server1:6667:5000 -p client=tpc111 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun11.dat &
+12
+insertstart=68750000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance12_workload -p iotdbinfo=server1:6667:5000 -p client=tpc112 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun12.dat &
+13
+insertstart=75000000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance13_workload -p iotdbinfo=server1:6667:5000 -p client=tpc113 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun13.dat &
+14
+insertstart=81250000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance14_workload -p iotdbinfo=server1:6667:5000 -p client=tpc114 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun14.dat &
+15
+insertstart=87500000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance15_workload -p iotdbinfo=server1:6667:5000 -p client=tpc115 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun15.dat &
+16
+insertstart=93750000
+insertcount=6250000
+recordcount=100000000
+operationcount=6250000
+workload=com.yahoo.ycsb.workloads.CoreWorkload
+readallfields=true
+readproportion=0.0
+updateproportion=0.0
+# scanproportion=0
+insertproportion=1
+threadcount=10
+requestdistribution=uniform
+./tpcx-iot/bin/tpcx-iot run iotdb -P /home/ubuntu/TPCx-IoT-IoTDB/tpc_iot_instance16_workload -p iotdbinfo=server1:6667:5000 -p client=tpc116 -p runtype=run -s > /home/ubuntu/TPCx-IoT-IoTDB/logs/dbrun16.dat &
+instaces pids =  18480 18483 18486 18489 18492 18495 18498 18501 18504 18507 18510 18513 18516 18519 18522 18527
+All done
+Run Result SUCCESS===All records can be queried and inserted 
+
+
+======== Workload IoT Run Result SUCCESS ========
+======== Time taken by Workload IoT = ====
+
+
+Test Run 1 on tpc1 details: Total Time = 268.619 

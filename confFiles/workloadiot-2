@@ -30,5 +30,5 @@ workload=com.yahoo.ycsb.workloads.CoreWorkload
 readallfields=true
 requestdistribution=uniform
 threadcount=100
-insertstart=0
+insertstart=100000001
 operationcount=100000000

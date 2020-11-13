@@ -1,0 +1,60 @@
+
+[0;32mRunning Records test[0m
+[0;32mIoT data size is 300000000[0m
+[0;32mAll Output will be logged to file ./TPCx-IoT-result-Records.log[0m
+
+[0;32m===================================[0m
+[0;32m Running Cluster Validation Suite[0m
+[0;32m===================================[0m
+
+
+
+[0;32m End of Cluster Validation Suite[0m
+
+
+[0;32mChecking if the IoT Data Table exists already [0m
+[0;32mRunning Records test with 3 clients [0m
+[0;32m===================================[0m
+[0;32mDeleting Previous Data - Start - Fri Nov 13 14:45:00 UTC 2020[0m
+[0;32mDeleting Previous Data - End - Fri Nov 13 14:45:01 UTC 2020[0m
+[0;32m===================================[0m
+
+
+[0;32mWarmup Run - Start - Fri Nov 13 14:45:01 UTC 2020[0m
+All drivers have completed
+[0;32mWarmup Run - End - Fri Nov 13 14:48:19 UTC 2020[0m
+[0;32mMeasured Run - Start - Fri Nov 13 14:48:21 UTC 2020[0m
+All drivers have completed
+[0;32mMeasured Run - End - Fri Nov 13 14:54:06 UTC 2020[0m
+
+
+[0;32mStarting Data Validation [0m
+[0;31m Replication script does not produce any results. [0m
+
+
+[0;32mStarting count of rows in table [0m
+[0;32mData Validation Success === Run result is ok,  records are inserted  [0m
+[0;34m - Inserted count :[0m 
+[0;32m - Targeted count :[0m 300000000
+
+
+[0;31m===================================[0m
+[0;31mNo Performance Metric (IoTps) as run time or warm up run time is less than 30 minutes [0m
+[0;31m===================================[0m
+[0;32mTest Run 1 : Total Time In Seconds = 268.619 [0m
+[0;32m===============================================[0m
+
+[0;32mmd5sum of core components:[0m
+debb8f683294b6f778c27dd878c476dd  ./TPC-IoT-master.sh
+1d85705dc67fb3c767d7a1fe8775275f  ./IoT_cluster_validate_suite.sh
+
+[0;32m===============================================[0m
+[0;32mTPCx-IoT Performance Metric (IoTps) Report [0m
+
+[0;32mTest Run 1 details : Total Time For Warmup Run In Seconds = 197.468 [0m
+[0;32mTest Run 1 details : Total Time In Seconds = 268.619 [0m
+[0;32m                      Total Number of Records = 300000000 [0m
+
+[0;32mTPCx-IoT Performance Metric (IoTps): 1116823.4562 [0m
+
+[0;32m===============================================[0m

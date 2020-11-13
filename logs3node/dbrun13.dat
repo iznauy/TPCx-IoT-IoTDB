@@ -1,0 +1,2016 @@
+Run Type = run
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+Parse IoTDB Server info succeed: server1:6667:5000
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+start session(server1:6667) succeed
+14:48:22.914 [Thread-4] WARN org.apache.iotdb.tsfile.common.conf.TSFileDescriptor - Failed to find config file iotdb-engine.properties at classpath, use default configuration
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2020-11-16 00:45:17 to 2020-11-16 00:45:22
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2020-11-15 18:36:56 to 2020-11-15 18:37:01
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2020-11-18 20:17:07 to 2020-11-18 20:17:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2020-11-15 10:44:03 to 2020-11-15 10:44:08
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2020-11-19 11:05:37 to 2020-11-19 11:05:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2020-11-15 20:29:13 to 2020-11-15 20:29:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Flow from 2020-11-20 14:04:47 to 2020-11-20 14:04:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Flow from 2020-11-19 15:02:43 to 2020-11-19 15:02:48
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2020-11-20 22:57:17 to 2020-11-20 22:57:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2020-11-17 19:57:44 to 2020-11-17 19:57:49
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2020-11-21 08:11:37 to 2020-11-21 08:11:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2020-11-19 21:55:40 to 2020-11-19 21:55:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2020-11-28 15:44:27 to 2020-11-28 15:44:32
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2020-11-25 01:00:34 to 2020-11-25 01:00:39
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2020-11-29 04:25:07 to 2020-11-29 04:25:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2020-11-23 17:08:27 to 2020-11-23 17:08:32
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2020-11-29 07:06:37 to 2020-11-29 07:06:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2020-11-21 04:17:37 to 2020-11-21 04:17:42
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Level from 2020-12-04 01:10:17 to 2020-12-04 01:10:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Level from 2020-11-30 21:56:51 to 2020-11-30 21:56:56
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Level from 2020-12-14 17:49:17 to 2020-12-14 17:49:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Level from 2020-12-02 12:13:27 to 2020-12-02 12:13:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2020-12-17 10:04:17 to 2020-12-17 10:04:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2020-12-10 19:57:33 to 2020-12-10 19:57:38
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2020-12-18 06:18:17 to 2020-12-18 06:18:22
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2020-11-15 07:05:32 to 2020-11-15 07:05:37
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2020-12-30 19:28:57 to 2020-12-30 19:29:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2020-12-25 22:11:36 to 2020-12-25 22:11:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-01-02 12:43:37 to 2021-01-02 12:43:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2020-12-16 21:38:27 to 2020-12-16 21:38:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2021-01-05 21:15:37 to 2021-01-05 21:15:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2020-12-01 00:55:54 to 2020-12-01 00:55:59
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2021-01-13 07:23:07 to 2021-01-13 07:23:12
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2020-11-21 13:04:41 to 2020-11-21 13:04:46
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pressure from 2021-01-15 13:12:57 to 2021-01-15 13:13:02
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pressure from 2020-11-28 14:03:42 to 2020-11-28 14:03:47
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2021-01-15 18:18:47 to 2021-01-15 18:18:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2020-12-26 22:05:48 to 2020-12-26 22:05:53
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_rotating from 2021-01-18 14:48:27 to 2021-01-18 14:48:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_rotating from 2020-12-14 09:08:34 to 2020-12-14 09:08:39
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_admittance from 2021-01-18 23:17:57 to 2021-01-18 23:18:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_admittance from 2020-12-25 11:09:25 to 2020-12-25 11:09:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_admittance from 2021-01-21 12:27:47 to 2021-01-21 12:27:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_admittance from 2020-12-21 01:25:48 to 2020-12-21 01:25:53
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2021-01-25 22:34:37 to 2021-01-25 22:34:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2020-12-16 17:46:36 to 2020-12-16 17:46:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_rotating from 2021-01-28 08:13:27 to 2021-01-28 08:13:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_rotating from 2021-01-08 18:13:00 to 2021-01-08 18:13:05
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2021-01-30 14:37:57 to 2021-01-30 14:38:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2020-12-26 20:57:13 to 2020-12-26 20:57:18
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2021-01-30 17:30:17 to 2021-01-30 17:30:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2020-12-04 15:53:03 to 2020-12-04 15:53:08
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Temperature from 2021-01-30 20:51:17 to 2021-01-30 20:51:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Temperature from 2020-11-18 10:01:43 to 2020-11-18 10:01:48
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2021-01-31 16:24:57 to 2021-01-31 16:25:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2020-12-13 10:00:03 to 2020-12-13 10:00:08
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-02-06 01:05:27 to 2021-02-06 01:05:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2020-12-19 00:09:16 to 2020-12-19 00:09:21
+scan 0 results from server succeed for deviceID root.tpc113.side_7_tilt from 2021-02-06 08:38:07 to 2021-02-06 08:38:12
+scan 0 results from server succeed for deviceID root.tpc113.side_7_tilt from 2021-02-06 05:26:21 to 2021-02-06 05:26:26
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2021-02-16 00:27:07 to 2021-02-16 00:27:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2020-12-27 22:32:17 to 2020-12-27 22:32:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2021-02-21 22:03:37 to 2021-02-21 22:03:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2020-12-24 19:07:43 to 2020-12-24 19:07:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2021-02-23 03:41:47 to 2021-02-23 03:41:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2021-02-22 22:37:03 to 2021-02-22 22:37:08
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2021-02-26 20:26:17 to 2021-02-26 20:26:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2021-02-19 09:49:08 to 2021-02-19 09:49:13
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2021-02-27 02:09:07 to 2021-02-27 02:09:12
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2021-01-23 05:13:47 to 2021-01-23 05:13:52
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2021-02-27 21:13:47 to 2021-02-27 21:13:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2020-11-22 12:38:18 to 2020-11-22 12:38:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2021-03-02 05:45:37 to 2021-03-02 05:45:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2020-11-29 15:26:43 to 2020-11-29 15:26:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Pressure from 2021-03-03 11:58:57 to 2021-03-03 11:59:02
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Pressure from 2021-01-23 13:20:38 to 2021-01-23 13:20:43
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2021-03-07 06:12:47 to 2021-03-07 06:12:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2020-12-17 16:51:09 to 2020-12-17 16:51:14
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Power from 2021-03-12 01:52:57 to 2021-03-12 01:53:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Power from 2021-02-27 06:24:06 to 2021-02-27 06:24:11
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-03-14 00:53:37 to 2021-03-14 00:53:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-02-24 21:44:11 to 2021-02-24 21:44:16
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_vibration from 2021-03-15 02:51:07 to 2021-03-15 02:51:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_vibration from 2020-11-30 23:15:36 to 2020-11-30 23:15:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2021-03-16 10:03:07 to 2021-03-16 10:03:12
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2020-11-24 01:36:16 to 2020-11-24 01:36:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Pressure from 2021-03-17 16:29:17 to 2021-03-17 16:29:22
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Pressure from 2021-02-27 03:26:56 to 2021-02-27 03:27:01
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-03-18 03:23:57 to 2021-03-18 03:24:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-02-12 06:58:00 to 2021-02-12 06:58:05
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_tilt from 2021-03-18 06:26:37 to 2021-03-18 06:26:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_tilt from 2021-02-27 09:07:25 to 2021-02-27 09:07:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2021-03-20 00:09:57 to 2021-03-20 00:10:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2020-12-17 21:13:24 to 2020-12-17 21:13:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_tilt from 2021-03-20 23:56:27 to 2021-03-20 23:56:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_tilt from 2020-11-28 23:12:19 to 2020-11-28 23:12:24
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Humidity from 2021-03-27 21:53:17 to 2021-03-27 21:53:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Humidity from 2021-02-27 21:53:04 to 2021-02-27 21:53:09
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2021-03-28 03:35:47 to 2021-03-28 03:35:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2020-11-17 20:46:14 to 2020-11-17 20:46:19
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2021-03-28 13:10:37 to 2021-03-28 13:10:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2020-12-03 13:46:45 to 2020-12-03 13:46:50
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pneumatic_level from 2021-04-02 09:16:27 to 2021-04-02 09:16:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pneumatic_level from 2020-11-29 20:26:16 to 2020-11-29 20:26:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2021-04-05 18:42:27 to 2021-04-05 18:42:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2021-04-02 00:54:01 to 2021-04-02 00:54:06
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-04-07 05:14:57 to 2021-04-07 05:15:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-02-03 05:51:39 to 2021-02-03 05:51:44
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_tilt from 2021-04-08 07:22:17 to 2021-04-08 07:22:22
+scan 0 results from server succeed for deviceID root.tpc113.side_8_tilt from 2021-03-12 08:01:29 to 2021-03-12 08:01:34
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Pressure from 2021-04-10 05:32:07 to 2021-04-10 05:32:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Pressure from 2021-02-13 19:51:38 to 2021-02-13 19:51:43
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-04-14 09:08:37 to 2021-04-14 09:08:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-01-30 07:01:33 to 2021-01-30 07:01:38
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2021-04-15 08:10:57 to 2021-04-15 08:11:02
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2021-01-25 00:40:27 to 2021-01-25 00:40:32
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2021-04-15 09:20:07 to 2021-04-15 09:20:12
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2021-02-10 19:14:49 to 2021-02-10 19:14:54
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level from 2021-04-18 13:05:07 to 2021-04-18 13:05:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level from 2020-12-24 06:46:08 to 2020-12-24 06:46:13
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2021-04-22 04:30:37 to 2021-04-22 04:30:42
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2021-01-05 08:09:28 to 2021-01-05 08:09:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2021-05-02 10:02:47 to 2021-05-02 10:02:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2020-11-30 11:29:11 to 2020-11-30 11:29:16
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2021-05-02 18:17:57 to 2021-05-02 18:18:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2021-03-29 11:17:13 to 2021-03-29 11:17:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_admittance from 2021-05-04 18:58:07 to 2021-05-04 18:58:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_admittance from 2021-03-29 21:08:24 to 2021-03-29 21:08:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2021-05-07 06:02:57 to 2021-05-07 06:03:02
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2021-03-20 12:45:31 to 2021-03-20 12:45:36
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2021-05-13 05:08:27 to 2021-05-13 05:08:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2021-05-05 11:40:06 to 2021-05-05 11:40:11
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Flow from 2021-05-15 20:53:57 to 2021-05-15 20:54:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Flow from 2021-01-25 00:25:18 to 2021-01-25 00:25:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2021-05-17 09:19:47 to 2021-05-17 09:19:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2021-02-10 01:23:58 to 2021-02-10 01:24:03
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_tilt from 2021-05-18 10:42:27 to 2021-05-18 10:42:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_tilt from 2021-03-23 22:48:10 to 2021-03-23 22:48:15
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Level from 2021-05-19 02:04:47 to 2021-05-19 02:04:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Level from 2021-03-08 03:59:15 to 2021-03-08 03:59:20
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_level_admittance from 2021-05-19 21:26:47 to 2021-05-19 21:26:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_level_admittance from 2020-12-26 05:02:05 to 2020-12-26 05:02:10
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-05-22 15:15:17 to 2021-05-22 15:15:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-03-09 11:08:28 to 2021-03-09 11:08:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2021-05-24 02:22:27 to 2021-05-24 02:22:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2021-05-11 03:48:37 to 2021-05-11 03:48:42
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-05-25 08:31:47 to 2021-05-25 08:31:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-05-16 18:52:14 to 2021-05-16 18:52:19
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2021-05-25 17:26:47 to 2021-05-25 17:26:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2020-11-20 19:49:52 to 2020-11-20 19:49:57
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2021-05-26 11:22:17 to 2021-05-26 11:22:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2021-04-19 13:30:10 to 2021-04-19 13:30:15
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2021-05-26 22:41:37 to 2021-05-26 22:41:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2021-03-29 04:54:31 to 2021-03-29 04:54:36
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2021-05-27 18:14:47 to 2021-05-27 18:14:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Flow from 2021-01-01 13:26:55 to 2021-01-01 13:27:00
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_level_rotating from 2021-05-30 04:58:27 to 2021-05-30 04:58:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_level_rotating from 2021-05-23 00:56:03 to 2021-05-23 00:56:08
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2021-06-02 19:36:17 to 2021-06-02 19:36:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2021-03-07 09:54:13 to 2021-03-07 09:54:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-06-08 20:40:37 to 2021-06-08 20:40:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2020-11-16 18:02:28 to 2020-11-16 18:02:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-06-11 21:21:07 to 2021-06-11 21:21:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-01-21 16:50:48 to 2021-01-21 16:50:53
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2021-06-14 14:24:57 to 2021-06-14 14:25:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2021-04-01 13:32:40 to 2021-04-01 13:32:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2021-06-16 15:16:17 to 2021-06-16 15:16:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2021-03-29 02:17:44 to 2021-03-29 02:17:49
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2021-06-20 17:59:37 to 2021-06-20 17:59:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2021-05-28 13:13:04 to 2021-05-28 13:13:09
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_tilt from 2021-06-21 01:29:27 to 2021-06-21 01:29:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_tilt from 2021-06-17 12:38:18 to 2021-06-17 12:38:23
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_rotating from 2021-06-21 17:10:07 to 2021-06-21 17:10:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_rotating from 2021-01-30 11:31:49 to 2021-01-30 11:31:54
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2021-06-21 21:53:37 to 2021-06-21 21:53:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2021-03-29 11:32:45 to 2021-03-29 11:32:50
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-06-22 22:30:47 to 2021-06-22 22:30:52
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-05-25 02:19:34 to 2021-05-25 02:19:39
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_vibration from 2021-06-25 15:12:07 to 2021-06-25 15:12:12
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_vibration from 2021-02-27 09:50:23 to 2021-02-27 09:50:28
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2021-07-03 08:37:27 to 2021-07-03 08:37:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2021-06-05 00:05:45 to 2021-06-05 00:05:50
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-07-04 17:07:57 to 2021-07-04 17:08:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2020-12-19 12:54:44 to 2020-12-19 12:54:49
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2021-07-05 19:54:57 to 2021-07-05 19:55:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2021-06-17 23:31:06 to 2021-06-17 23:31:11
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Level from 2021-07-09 09:49:07 to 2021-07-09 09:49:12
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Level from 2021-03-29 00:15:17 to 2021-03-29 00:15:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Temperature from 2021-07-11 03:45:47 to 2021-07-11 03:45:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Temperature from 2021-06-19 21:06:11 to 2021-06-19 21:06:16
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-07-17 10:15:17 to 2021-07-17 10:15:22
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-02-24 21:23:00 to 2021-02-24 21:23:05
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Temperature from 2021-07-20 20:00:37 to 2021-07-20 20:00:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Temperature from 2021-03-16 01:54:44 to 2021-03-16 01:54:49
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-07-21 13:02:07 to 2021-07-21 13:02:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-01-06 06:16:30 to 2021-01-06 06:16:35
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_rotating from 2021-07-22 11:09:37 to 2021-07-22 11:09:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_rotating from 2020-11-13 19:24:06 to 2020-11-13 19:24:11
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Pressure from 2021-07-24 12:54:37 to 2021-07-24 12:54:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Pressure from 2021-05-21 01:26:27 to 2021-05-21 01:26:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Flow from 2021-07-26 05:05:37 to 2021-07-26 05:05:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Flow from 2021-03-19 09:45:28 to 2021-03-19 09:45:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_rotating from 2021-07-28 01:59:07 to 2021-07-28 01:59:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_rotating from 2021-01-03 04:31:25 to 2021-01-03 04:31:30
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_tilt from 2021-07-28 08:03:07 to 2021-07-28 08:03:12
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_tilt from 2021-03-08 17:23:26 to 2021-03-08 17:23:31
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Level from 2021-07-28 23:30:17 to 2021-07-28 23:30:22
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Level from 2021-01-14 12:04:52 to 2021-01-14 12:04:57
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Flow from 2021-07-29 03:15:07 to 2021-07-29 03:15:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Flow from 2021-01-16 13:44:06 to 2021-01-16 13:44:11
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Level from 2021-08-01 12:44:07 to 2021-08-01 12:44:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Level from 2021-05-13 08:53:00 to 2021-05-13 08:53:05
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Humidity from 2021-08-03 14:49:57 to 2021-08-03 14:50:02
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Humidity from 2021-03-19 16:56:10 to 2021-03-19 16:56:15
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2021-08-07 21:25:07 to 2021-08-07 21:25:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2020-12-07 11:00:01 to 2020-12-07 11:00:06
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Power from 2021-08-09 21:35:07 to 2021-08-09 21:35:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Power from 2021-05-08 23:37:47 to 2021-05-08 23:37:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2021-08-11 08:35:07 to 2021-08-11 08:35:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2021-05-26 00:02:43 to 2021-05-26 00:02:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-08-18 20:28:47 to 2021-08-18 20:28:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-02-05 14:47:15 to 2021-02-05 14:47:20
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Power from 2021-08-21 14:27:27 to 2021-08-21 14:27:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Power from 2021-01-12 17:54:51 to 2021-01-12 17:54:56
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_vibration from 2021-08-24 20:13:37 to 2021-08-24 20:13:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_vibration from 2021-02-04 10:35:47 to 2021-02-04 10:35:52
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Humidity from 2021-08-25 10:36:47 to 2021-08-25 10:36:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Humidity from 2021-05-31 23:26:16 to 2021-05-31 23:26:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Power from 2021-08-30 17:47:27 to 2021-08-30 17:47:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Power from 2020-12-11 08:56:17 to 2020-12-11 08:56:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-09-02 08:48:07 to 2021-09-02 08:48:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-04-18 04:48:35 to 2021-04-18 04:48:40
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-09-07 06:12:17 to 2021-09-07 06:12:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Level from 2021-08-09 02:49:31 to 2021-08-09 02:49:36
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2021-09-08 10:48:37 to 2021-09-08 10:48:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2021-04-21 04:08:47 to 2021-04-21 04:08:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2021-09-09 09:32:07 to 2021-09-09 09:32:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2021-04-26 04:35:51 to 2021-04-26 04:35:56
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2021-09-10 10:15:47 to 2021-09-10 10:15:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2021-08-09 13:45:40 to 2021-08-09 13:45:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Temperature from 2021-09-14 10:38:57 to 2021-09-14 10:39:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Temperature from 2021-02-15 15:54:30 to 2021-02-15 15:54:35
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-09-16 14:09:57 to 2021-09-16 14:10:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-01-26 15:17:40 to 2021-01-26 15:17:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2021-09-17 16:26:37 to 2021-09-17 16:26:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2021-02-03 01:28:04 to 2021-02-03 01:28:09
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2021-09-19 05:49:17 to 2021-09-19 05:49:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_vibration from 2020-12-22 04:26:10 to 2020-12-22 04:26:15
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2021-09-20 14:11:57 to 2021-09-20 14:12:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2021-09-04 01:33:43 to 2021-09-04 01:33:48
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-09-20 16:20:57 to 2021-09-20 16:21:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-05-10 06:06:28 to 2021-05-10 06:06:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-09-26 16:31:37 to 2021-09-26 16:31:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-02-28 10:44:03 to 2021-02-28 10:44:08
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2021-09-26 22:15:27 to 2021-09-26 22:15:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2021-02-02 05:56:15 to 2021-02-02 05:56:20
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_vibration from 2021-09-29 04:21:37 to 2021-09-29 04:21:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_vibration from 2020-12-09 10:46:21 to 2020-12-09 10:46:26
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_tilt from 2021-09-30 09:18:37 to 2021-09-30 09:18:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_tilt from 2021-02-13 01:33:25 to 2021-02-13 01:33:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2021-10-03 14:18:47 to 2021-10-03 14:18:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2021-02-07 13:58:25 to 2021-02-07 13:58:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2021-10-05 06:22:37 to 2021-10-05 06:22:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2021-01-15 04:05:43 to 2021-01-15 04:05:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2021-10-09 12:35:57 to 2021-10-09 12:36:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2021-01-30 04:08:52 to 2021-01-30 04:08:57
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-10-10 10:22:37 to 2021-10-10 10:22:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-09-03 03:51:42 to 2021-09-03 03:51:47
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-10-15 01:13:37 to 2021-10-15 01:13:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-08-05 10:56:54 to 2021-08-05 10:56:59
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2021-10-21 04:47:57 to 2021-10-21 04:48:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2021-05-28 09:50:25 to 2021-05-28 09:50:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2021-10-22 20:37:17 to 2021-10-22 20:37:22
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2021-05-20 10:46:13 to 2021-05-20 10:46:18
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Level from 2021-10-23 07:05:27 to 2021-10-23 07:05:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Level from 2021-10-06 12:51:36 to 2021-10-06 12:51:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2021-10-28 06:41:37 to 2021-10-28 06:41:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2021-04-08 13:39:58 to 2021-04-08 13:40:03
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2021-11-01 14:34:47 to 2021-11-01 14:34:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2021-04-23 15:56:18 to 2021-04-23 15:56:23
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Humidity from 2021-11-01 20:25:17 to 2021-11-01 20:25:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Humidity from 2021-05-25 18:13:56 to 2021-05-25 18:14:01
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-11-07 16:33:47 to 2021-11-07 16:33:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-08-25 00:00:18 to 2021-08-25 00:00:23
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2021-11-07 21:21:27 to 2021-11-07 21:21:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2020-11-20 07:20:55 to 2020-11-20 07:21:00
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Level from 2021-11-08 09:21:47 to 2021-11-08 09:21:52
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Level from 2021-09-26 16:28:23 to 2021-09-26 16:28:28
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Power from 2021-11-15 12:17:27 to 2021-11-15 12:17:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Power from 2021-03-16 09:06:44 to 2021-03-16 09:06:49
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2021-11-16 00:09:57 to 2021-11-16 00:10:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2021-06-29 07:30:12 to 2021-06-29 07:30:17
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Pressure from 2021-11-18 18:04:07 to 2021-11-18 18:04:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Pressure from 2021-05-07 11:16:33 to 2021-05-07 11:16:38
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2021-11-21 12:30:47 to 2021-11-21 12:30:52
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2020-11-25 05:54:51 to 2020-11-25 05:54:56
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-11-22 20:01:57 to 2021-11-22 20:02:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-02-18 10:18:13 to 2021-02-18 10:18:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-11-24 20:17:17 to 2021-11-24 20:17:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Level from 2021-07-08 06:32:29 to 2021-07-08 06:32:34
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pneumatic_level from 2021-11-28 22:19:27 to 2021-11-28 22:19:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pneumatic_level from 2021-02-17 07:48:28 to 2021-02-17 07:48:33
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Power from 2021-11-29 07:45:17 to 2021-11-29 07:45:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Power from 2021-10-17 22:18:17 to 2021-10-17 22:18:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-12-08 04:55:27 to 2021-12-08 04:55:32
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2021-11-22 22:05:33 to 2021-11-22 22:05:38
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2021-12-09 20:49:57 to 2021-12-09 20:50:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2021-08-15 17:39:07 to 2021-08-15 17:39:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2021-12-10 04:24:27 to 2021-12-10 04:24:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2021-08-23 20:59:24 to 2021-08-23 20:59:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2021-12-13 14:21:57 to 2021-12-13 14:22:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2021-10-08 13:03:41 to 2021-10-08 13:03:46
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Pressure from 2021-12-15 17:19:37 to 2021-12-15 17:19:42
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Pressure from 2020-12-24 01:28:29 to 2020-12-24 01:28:34
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2021-12-16 05:41:57 to 2021-12-16 05:42:02
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2021-06-17 17:31:43 to 2021-06-17 17:31:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2021-12-18 13:32:17 to 2021-12-18 13:32:22
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2021-01-12 17:40:34 to 2021-01-12 17:40:39
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2021-12-20 13:12:37 to 2021-12-20 13:12:42
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2021-07-03 00:06:59 to 2021-07-03 00:07:04
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2021-12-22 06:19:57 to 2021-12-22 06:20:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2021-01-20 01:31:57 to 2021-01-20 01:32:02
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level from 2021-12-22 13:26:37 to 2021-12-22 13:26:42
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level from 2020-12-10 21:17:14 to 2020-12-10 21:17:19
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2021-12-22 17:52:57 to 2021-12-22 17:53:02
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_admittance from 2021-07-29 17:33:19 to 2021-07-29 17:33:24
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2021-12-23 01:21:27 to 2021-12-23 01:21:32
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2021-02-04 14:45:16 to 2021-02-04 14:45:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2021-12-27 07:07:37 to 2021-12-27 07:07:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_vibrating from 2021-06-04 07:09:07 to 2021-06-04 07:09:12
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Temperature from 2021-12-28 07:36:37 to 2021-12-28 07:36:42
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Temperature from 2021-11-02 14:35:39 to 2021-11-02 14:35:44
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_admittance from 2021-12-31 22:42:57 to 2021-12-31 22:43:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_admittance from 2021-09-14 10:54:20 to 2021-09-14 10:54:25
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2022-01-03 14:25:57 to 2022-01-03 14:26:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2021-11-10 06:36:20 to 2021-11-10 06:36:25
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2022-01-04 18:30:07 to 2022-01-04 18:30:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2020-12-20 06:05:42 to 2020-12-20 06:05:47
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Flow from 2022-01-07 19:29:07 to 2022-01-07 19:29:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Flow from 2021-04-06 03:44:16 to 2021-04-06 03:44:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Temperature from 2022-01-09 12:06:57 to 2022-01-09 12:07:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Temperature from 2022-01-09 03:24:27 to 2022-01-09 03:24:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2022-01-10 19:39:17 to 2022-01-10 19:39:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-10-24 21:11:12 to 2021-10-24 21:11:17
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2022-01-10 20:16:17 to 2022-01-10 20:16:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2021-10-15 04:49:34 to 2021-10-15 04:49:39
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level from 2022-01-12 16:45:17 to 2022-01-12 16:45:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level from 2021-12-27 00:31:04 to 2021-12-27 00:31:09
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_admittance from 2022-01-17 05:03:17 to 2022-01-17 05:03:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_admittance from 2021-07-18 08:05:59 to 2021-07-18 08:06:04
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2022-01-18 16:20:07 to 2022-01-18 16:20:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_vibration from 2020-12-18 18:14:45 to 2020-12-18 18:14:50
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Flow from 2022-01-19 16:53:57 to 2022-01-19 16:54:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Flow from 2021-02-13 17:47:32 to 2021-02-13 17:47:37
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_tilt from 2022-01-22 22:43:47 to 2022-01-22 22:43:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_tilt from 2021-08-02 22:48:22 to 2021-08-02 22:48:27
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2022-01-23 01:44:37 to 2022-01-23 01:44:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2021-11-11 13:02:18 to 2021-11-11 13:02:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Power from 2022-01-25 11:30:07 to 2022-01-25 11:30:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Power from 2021-01-04 10:13:36 to 2021-01-04 10:13:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_rotating from 2022-01-26 05:40:07 to 2022-01-26 05:40:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_rotating from 2020-11-18 14:57:44 to 2020-11-18 14:57:49
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2022-01-26 22:18:57 to 2022-01-26 22:19:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2021-09-14 01:57:36 to 2021-09-14 01:57:41
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2022-01-27 11:05:17 to 2022-01-27 11:05:22
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level_vibrating from 2020-12-19 07:33:11 to 2020-12-19 07:33:16
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2022-01-28 23:17:17 to 2022-01-28 23:17:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2020-11-28 21:28:27 to 2020-11-28 21:28:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_tilt from 2022-01-31 00:33:27 to 2022-01-31 00:33:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_tilt from 2021-04-19 07:24:13 to 2021-04-19 07:24:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2022-02-05 01:22:07 to 2022-02-05 01:22:12
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_admittance from 2021-01-31 14:08:10 to 2021-01-31 14:08:15
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2022-02-05 14:14:57 to 2022-02-05 14:15:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2021-09-07 03:21:09 to 2021-09-07 03:21:14
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2022-02-08 00:22:07 to 2022-02-08 00:22:12
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2022-01-09 21:23:52 to 2022-01-09 21:23:57
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2022-02-08 06:57:07 to 2022-02-08 06:57:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2021-12-22 13:34:16 to 2021-12-22 13:34:21
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2022-02-10 15:40:17 to 2022-02-10 15:40:22
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2021-11-15 23:22:43 to 2021-11-15 23:22:48
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_rotating from 2022-02-10 16:23:37 to 2022-02-10 16:23:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_rotating from 2021-01-19 20:07:13 to 2021-01-19 20:07:18
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2022-02-11 21:47:47 to 2022-02-11 21:47:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_rotating from 2020-12-07 03:48:22 to 2020-12-07 03:48:27
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Flow from 2022-02-20 06:09:17 to 2022-02-20 06:09:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Flow from 2020-12-11 11:43:32 to 2020-12-11 11:43:37
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pneumatic_level from 2022-02-22 23:56:47 to 2022-02-22 23:56:52
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pneumatic_level from 2021-07-23 00:02:04 to 2021-07-23 00:02:09
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Power from 2022-03-02 21:31:17 to 2022-03-02 21:31:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Power from 2021-12-09 17:35:40 to 2021-12-09 17:35:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2022-03-03 16:40:07 to 2022-03-03 16:40:12
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2022-02-13 18:24:25 to 2022-02-13 18:24:30
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2022-03-03 19:14:57 to 2022-03-03 19:15:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2021-05-09 03:43:11 to 2021-05-09 03:43:16
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Level from 2022-03-05 13:15:17 to 2022-03-05 13:15:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Level from 2022-01-22 10:00:18 to 2022-01-22 10:00:23
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Power from 2022-03-06 01:41:27 to 2022-03-06 01:41:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Power from 2021-06-05 23:15:58 to 2021-06-05 23:16:03
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Power from 2022-03-06 13:00:17 to 2022-03-06 13:00:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Power from 2021-03-06 02:07:29 to 2021-03-06 02:07:34
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2022-03-07 12:44:47 to 2022-03-07 12:44:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-02-23 19:26:23 to 2021-02-23 19:26:28
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level from 2022-03-08 01:10:17 to 2022-03-08 01:10:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level from 2021-08-10 20:31:43 to 2021-08-10 20:31:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2022-03-10 04:57:07 to 2022-03-10 04:57:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2022-01-19 23:39:04 to 2022-01-19 23:39:09
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2022-03-10 07:34:07 to 2022-03-10 07:34:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2021-03-09 02:24:50 to 2021-03-09 02:24:55
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2022-03-10 22:10:47 to 2022-03-10 22:10:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2021-11-14 21:45:38 to 2021-11-14 21:45:43
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Temperature from 2022-03-12 17:31:47 to 2022-03-12 17:31:52
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Temperature from 2021-12-31 08:59:47 to 2021-12-31 08:59:52
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2022-03-12 19:32:17 to 2022-03-12 19:32:22
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2022-02-20 18:47:52 to 2022-02-20 18:47:57
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2022-03-18 03:14:17 to 2022-03-18 03:14:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2021-10-28 00:05:27 to 2021-10-28 00:05:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Flow from 2022-03-19 11:42:37 to 2022-03-19 11:42:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Flow from 2021-11-06 21:04:20 to 2021-11-06 21:04:25
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2022-03-19 15:00:57 to 2022-03-19 15:01:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2021-08-30 22:31:24 to 2021-08-30 22:31:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2022-03-21 02:07:07 to 2022-03-21 02:07:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Humidity from 2021-07-14 19:42:38 to 2021-07-14 19:42:43
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Level from 2022-03-23 01:10:57 to 2022-03-23 01:11:02
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Level from 2022-02-02 01:10:47 to 2022-02-02 01:10:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2022-03-27 04:44:07 to 2022-03-27 04:44:12
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_tilt from 2021-04-02 08:41:14 to 2021-04-02 08:41:19
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Level from 2022-03-30 08:53:27 to 2022-03-30 08:53:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Level from 2021-10-15 17:10:55 to 2021-10-15 17:11:00
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2022-03-31 17:01:07 to 2022-03-31 17:01:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2020-11-16 15:16:34 to 2020-11-16 15:16:39
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2022-03-31 21:03:47 to 2022-03-31 21:03:52
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Flow from 2021-12-03 23:44:27 to 2021-12-03 23:44:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2022-04-04 01:29:07 to 2022-04-04 01:29:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Power from 2021-09-13 14:22:51 to 2021-09-13 14:22:56
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2022-04-04 05:09:07 to 2022-04-04 05:09:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2020-12-20 15:32:28 to 2020-12-20 15:32:33
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2022-04-04 06:56:17 to 2022-04-04 06:56:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2022-03-04 11:09:40 to 2022-03-04 11:09:45
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2022-04-06 22:48:27 to 2022-04-06 22:48:32
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2021-11-24 23:58:36 to 2021-11-24 23:58:41
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2022-04-09 11:33:27 to 2022-04-09 11:33:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-11-23 05:37:09 to 2021-11-23 05:37:14
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2022-04-12 04:08:37 to 2022-04-12 04:08:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Power from 2021-06-22 18:25:54 to 2021-06-22 18:25:59
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pneumatic_level from 2022-04-14 18:35:57 to 2022-04-14 18:36:02
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pneumatic_level from 2021-04-05 04:08:24 to 2021-04-05 04:08:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2022-04-15 22:52:27 to 2022-04-15 22:52:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2020-12-05 22:14:05 to 2020-12-05 22:14:10
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2022-04-19 17:44:27 to 2022-04-19 17:44:32
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2021-11-20 17:02:32 to 2021-11-20 17:02:37
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2022-04-20 22:44:17 to 2022-04-20 22:44:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_level_admittance from 2021-12-20 07:01:34 to 2021-12-20 07:01:39
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2022-04-29 10:17:27 to 2022-04-29 10:17:32
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_vibration from 2021-10-06 03:43:14 to 2021-10-06 03:43:19
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2022-04-30 20:23:27 to 2022-04-30 20:23:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Temperature from 2021-06-14 11:22:46 to 2021-06-14 11:22:51
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2022-05-03 21:21:27 to 2022-05-03 21:21:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2021-06-11 08:33:18 to 2021-06-11 08:33:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Pressure from 2022-05-07 06:26:37 to 2022-05-07 06:26:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Pressure from 2021-09-27 07:14:21 to 2021-09-27 07:14:26
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2022-05-07 21:51:07 to 2022-05-07 21:51:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2022-03-06 19:25:25 to 2022-03-06 19:25:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_vibrating from 2022-05-10 04:56:17 to 2022-05-10 04:56:22
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level_vibrating from 2021-03-25 23:52:52 to 2021-03-25 23:52:57
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2022-05-10 19:59:47 to 2022-05-10 19:59:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_tilt from 2021-02-13 09:55:32 to 2021-02-13 09:55:37
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_vibration from 2022-05-11 08:51:27 to 2022-05-11 08:51:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_vibration from 2021-12-16 09:32:14 to 2021-12-16 09:32:19
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2022-05-11 21:45:07 to 2022-05-11 21:45:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Pressure from 2022-04-25 05:41:27 to 2022-04-25 05:41:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2022-05-14 14:31:17 to 2022-05-14 14:31:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Level from 2021-03-27 09:25:47 to 2021-03-27 09:25:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2022-05-20 06:08:57 to 2022-05-20 06:09:02
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level_admittance from 2021-08-07 06:45:54 to 2021-08-07 06:45:59
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2022-05-21 01:43:07 to 2022-05-21 01:43:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Flow from 2021-12-26 00:34:27 to 2021-12-26 00:34:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2022-05-21 21:47:37 to 2022-05-21 21:47:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2021-12-30 00:27:46 to 2021-12-30 00:27:51
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Temperature from 2022-05-23 21:23:17 to 2022-05-23 21:23:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Temperature from 2022-05-16 08:04:20 to 2022-05-16 08:04:25
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2022-06-06 11:54:27 to 2022-06-06 11:54:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_admittance from 2020-12-12 18:13:30 to 2020-12-12 18:13:35
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2022-06-07 07:45:37 to 2022-06-07 07:45:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_vibrating from 2021-10-18 21:54:47 to 2021-10-18 21:54:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2022-06-08 08:02:17 to 2022-06-08 08:02:22
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2021-08-21 06:28:35 to 2021-08-21 06:28:40
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pneumatic_level from 2022-06-09 03:02:27 to 2022-06-09 03:02:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Pneumatic_level from 2021-03-06 05:58:28 to 2021-03-06 05:58:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2022-06-15 08:03:07 to 2022-06-15 08:03:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2022-02-16 04:49:46 to 2022-02-16 04:49:51
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2022-06-15 08:23:17 to 2022-06-15 08:23:22
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2022-03-11 05:20:41 to 2022-03-11 05:20:46
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2022-06-15 15:07:57 to 2022-06-15 15:08:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2021-03-23 18:09:56 to 2021-03-23 18:10:01
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2022-06-16 07:13:17 to 2022-06-16 07:13:22
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2022-01-29 12:32:27 to 2022-01-29 12:32:32
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_rotating from 2022-06-17 13:29:17 to 2022-06-17 13:29:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_rotating from 2022-03-19 04:45:50 to 2022-03-19 04:45:55
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2022-06-22 16:22:17 to 2022-06-22 16:22:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2022-03-28 12:55:01 to 2022-03-28 12:55:06
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2022-07-03 20:17:37 to 2022-07-03 20:17:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Temperature from 2021-01-29 21:23:35 to 2021-01-29 21:23:40
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2022-07-04 08:25:27 to 2022-07-04 08:25:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2021-01-13 18:30:14 to 2021-01-13 18:30:19
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2022-07-14 12:24:57 to 2022-07-14 12:25:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Level from 2021-04-28 07:32:27 to 2021-04-28 07:32:32
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2022-07-15 06:19:07 to 2022-07-15 06:19:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2021-05-23 13:08:18 to 2021-05-23 13:08:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2022-07-16 19:33:47 to 2022-07-16 19:33:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Pressure from 2021-05-18 07:17:53 to 2021-05-18 07:17:58
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2022-07-16 19:47:17 to 2022-07-16 19:47:22
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2021-02-21 19:17:12 to 2021-02-21 19:17:17
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2022-07-17 00:47:57 to 2022-07-17 00:48:02
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2022-07-01 20:59:18 to 2022-07-01 20:59:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2022-07-18 09:33:47 to 2022-07-18 09:33:52
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2021-02-28 09:56:41 to 2021-02-28 09:56:46
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level from 2022-07-20 20:39:37 to 2022-07-20 20:39:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level from 2022-06-30 22:02:47 to 2022-06-30 22:02:52
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Power from 2022-07-24 06:21:27 to 2022-07-24 06:21:32
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_Power from 2021-08-03 15:52:28 to 2021-08-03 15:52:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2022-07-27 12:25:37 to 2022-07-27 12:25:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Temperature from 2022-01-09 13:45:25 to 2022-01-09 13:45:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2022-07-29 11:01:27 to 2022-07-29 11:01:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-12-21 08:13:46 to 2021-12-21 08:13:51
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2022-08-02 20:05:57 to 2022-08-02 20:06:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-09-29 17:15:24 to 2021-09-29 17:15:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Level from 2022-08-04 06:48:47 to 2022-08-04 06:48:52
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Level from 2022-04-05 01:02:59 to 2022-04-05 01:03:04
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2022-08-05 08:00:37 to 2022-08-05 08:00:42
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2021-02-28 00:04:17 to 2021-02-28 00:04:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2022-08-06 22:48:27 to 2022-08-06 22:48:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_vibration from 2022-07-05 16:27:18 to 2022-07-05 16:27:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2022-08-09 07:28:07 to 2022-08-09 07:28:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_tilt from 2021-02-11 17:43:46 to 2021-02-11 17:43:51
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2022-08-09 10:31:07 to 2022-08-09 10:31:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_Humidity from 2021-06-04 13:11:08 to 2021-06-04 13:11:13
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Pressure from 2022-08-10 11:40:37 to 2022-08-10 11:40:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Pressure from 2021-12-26 04:03:39 to 2021-12-26 04:03:44
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2022-08-10 19:12:27 to 2022-08-10 19:12:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2021-04-20 03:00:57 to 2021-04-20 03:01:02
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Temperature from 2022-08-11 13:23:07 to 2022-08-11 13:23:12
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Temperature from 2021-07-12 06:42:39 to 2021-07-12 06:42:44
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2022-08-13 00:45:57 to 2022-08-13 00:46:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_rotating from 2021-12-15 09:21:54 to 2021-12-15 09:21:59
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2022-08-16 17:31:47 to 2022-08-16 17:31:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_level_vibrating from 2021-11-25 07:46:18 to 2021-11-25 07:46:23
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2022-08-18 00:31:07 to 2022-08-18 00:31:12
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Level from 2021-11-17 19:41:44 to 2021-11-17 19:41:49
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_vibration from 2022-08-18 08:26:47 to 2022-08-18 08:26:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_vibration from 2021-05-20 08:31:33 to 2021-05-20 08:31:38
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2022-08-18 22:52:37 to 2022-08-18 22:52:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2021-07-12 09:42:45 to 2021-07-12 09:42:50
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_vibration from 2022-08-19 01:10:27 to 2022-08-19 01:10:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_vibration from 2022-01-23 00:27:05 to 2022-01-23 00:27:10
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2022-08-19 20:36:37 to 2022-08-19 20:36:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2022-05-02 22:16:10 to 2022-05-02 22:16:15
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level from 2022-08-20 11:26:07 to 2022-08-20 11:26:12
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_level from 2021-05-11 05:58:13 to 2021-05-11 05:58:18
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2022-08-21 06:53:37 to 2022-08-21 06:53:42
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_vibration from 2021-08-30 00:18:47 to 2021-08-30 00:18:52
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2022-08-21 13:11:57 to 2022-08-21 13:12:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pressure from 2022-07-20 19:41:20 to 2022-07-20 19:41:25
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2022-08-27 04:44:37 to 2022-08-27 04:44:42
+scan 0 results from server succeed for deviceID root.tpc113.mid_1125_vibration from 2021-04-06 08:13:57 to 2021-04-06 08:14:02
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2022-08-29 07:57:47 to 2022-08-29 07:57:52
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level_vibrating from 2020-12-16 05:30:57 to 2020-12-16 05:31:02
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2022-09-04 17:39:27 to 2022-09-04 17:39:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_tilt from 2021-12-08 13:21:45 to 2021-12-08 13:21:50
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2022-09-04 19:38:37 to 2022-09-04 19:38:42
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Flow from 2020-11-29 08:18:45 to 2020-11-29 08:18:50
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Flow from 2022-09-06 15:19:37 to 2022-09-06 15:19:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_1_Flow from 2021-11-26 22:02:17 to 2021-11-26 22:02:22
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Temperature from 2022-09-08 11:59:57 to 2022-09-08 12:00:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Temperature from 2022-03-31 12:47:28 to 2022-03-31 12:47:33
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Power from 2022-09-10 21:40:27 to 2022-09-10 21:40:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Power from 2021-01-14 11:09:39 to 2021-01-14 11:09:44
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Power from 2022-09-13 04:38:57 to 2022-09-13 04:39:02
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_Power from 2021-01-19 22:14:42 to 2021-01-19 22:14:47
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2022-09-13 07:46:47 to 2022-09-13 07:46:52
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Humidity from 2020-12-15 14:07:38 to 2020-12-15 14:07:43
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Temperature from 2022-09-16 22:59:27 to 2022-09-16 22:59:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Temperature from 2021-07-06 05:48:45 to 2021-07-06 05:48:50
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level from 2022-09-20 15:31:47 to 2022-09-20 15:31:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level from 2021-08-05 15:37:38 to 2021-08-05 15:37:43
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_admittance from 2022-09-20 18:20:27 to 2022-09-20 18:20:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_admittance from 2021-07-20 19:10:30 to 2021-07-20 19:10:35
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pneumatic_level from 2022-09-23 18:00:37 to 2022-09-23 18:00:42
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Pneumatic_level from 2022-03-03 04:54:43 to 2022-03-03 04:54:48
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2022-09-24 11:20:27 to 2022-09-24 11:20:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_tilt from 2022-05-26 17:43:35 to 2022-05-26 17:43:40
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2022-09-24 15:47:37 to 2022-09-24 15:47:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_Humidity from 2021-06-03 23:20:37 to 2021-06-03 23:20:42
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2022-09-27 08:45:17 to 2022-09-27 08:45:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Humidity from 2022-03-16 05:09:49 to 2022-03-16 05:09:54
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Level from 2022-09-28 19:26:57 to 2022-09-28 19:27:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_Level from 2021-02-13 08:14:04 to 2021-02-13 08:14:09
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2022-09-30 22:23:07 to 2022-09-30 22:23:12
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2021-12-05 11:53:01 to 2021-12-05 11:53:06
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2022-10-01 07:18:17 to 2022-10-01 07:18:22
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Temperature from 2022-03-14 18:15:58 to 2022-03-14 18:16:03
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Flow from 2022-10-05 04:05:47 to 2022-10-05 04:05:52
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_Flow from 2022-05-09 13:32:59 to 2022-05-09 13:33:04
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2022-10-06 09:01:07 to 2022-10-06 09:01:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2021-07-30 13:58:05 to 2021-07-30 13:58:10
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2022-10-06 20:21:27 to 2022-10-06 20:21:32
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_level_vibrating from 2022-04-20 08:53:10 to 2022-04-20 08:53:15
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2022-10-07 17:05:27 to 2022-10-07 17:05:32
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2021-05-22 01:47:09 to 2021-05-22 01:47:14
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2022-10-11 17:13:37 to 2022-10-11 17:13:42
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_vibrating from 2021-02-07 16:13:39 to 2021-02-07 16:13:44
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2022-10-16 00:28:47 to 2022-10-16 00:28:52
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Temperature from 2021-12-29 08:27:34 to 2021-12-29 08:27:39
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2022-10-18 22:56:27 to 2022-10-18 22:56:32
+scan 0 results from server succeed for deviceID root.tpc113.side_8_level from 2022-04-28 02:38:41 to 2022-04-28 02:38:46
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2022-10-22 06:21:37 to 2022-10-22 06:21:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_level_rotating from 2021-09-23 09:35:49 to 2021-09-23 09:35:54
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_admittance from 2022-10-25 04:38:17 to 2022-10-25 04:38:22
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level_admittance from 2021-10-22 13:47:19 to 2021-10-22 13:47:24
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2022-10-25 14:10:37 to 2022-10-25 14:10:42
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_Flow from 2022-10-05 12:44:24 to 2022-10-05 12:44:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2022-10-29 19:08:57 to 2022-10-29 19:09:02
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level from 2021-09-01 02:22:48 to 2021-09-01 02:22:53
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2022-11-05 06:55:07 to 2022-11-05 06:55:12
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_vibrating from 2022-04-30 04:42:01 to 2022-04-30 04:42:06
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Power from 2022-11-07 04:34:37 to 2022-11-07 04:34:42
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Power from 2021-10-04 01:01:41 to 2021-10-04 01:01:46
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2022-11-11 08:07:17 to 2022-11-11 08:07:22
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pressure from 2022-01-07 05:08:04 to 2022-01-07 05:08:09
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Power from 2022-11-11 09:05:27 to 2022-11-11 09:05:32
+scan 0 results from server succeed for deviceID root.tpc113.ang_60_Power from 2021-12-02 16:47:15 to 2021-12-02 16:47:20
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2022-11-11 21:54:37 to 2022-11-11 21:54:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_30_Pressure from 2022-08-15 16:10:52 to 2022-08-15 16:10:57
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+cleanup session(server1:6667) succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level from 2022-11-15 07:18:57 to 2022-11-15 07:19:02
+scan 0 results from server succeed for deviceID root.tpc113.side_7_level from 2021-04-02 06:23:11 to 2021-04-02 06:23:16
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Pressure from 2022-11-16 02:34:07 to 2022-11-16 02:34:12
+scan 0 results from server succeed for deviceID root.tpc113.cor_4_Pressure from 2021-02-11 10:05:01 to 2021-02-11 10:05:06
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pneumatic_level from 2022-11-22 06:55:37 to 2022-11-22 06:55:42
+scan 0 results from server succeed for deviceID root.tpc113.side_8_Pneumatic_level from 2021-01-17 14:54:44 to 2021-01-17 14:54:49
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_rotating from 2022-11-22 19:01:27 to 2022-11-22 19:01:32
+scan 0 results from server succeed for deviceID root.tpc113.aft_1120_level_rotating from 2022-02-21 20:39:57 to 2022-02-21 20:40:02
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2022-11-23 01:54:37 to 2022-11-23 01:54:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_90_level_rotating from 2021-11-18 02:32:00 to 2021-11-18 02:32:05
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2022-11-24 11:45:37 to 2022-11-24 11:45:42
+scan 0 results from server succeed for deviceID root.tpc113.ang_45_vibration from 2021-06-26 18:28:25 to 2021-06-26 18:28:30
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2022-11-26 02:36:37 to 2022-11-26 02:36:42
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2021-06-30 08:05:53 to 2021-06-30 08:05:58
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2022-11-27 09:46:47 to 2022-11-27 09:46:52
+scan 0 results from server succeed for deviceID root.tpc113.bef_1195_level from 2022-07-03 20:23:24 to 2022-07-03 20:23:29
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2022-11-30 19:13:37 to 2022-11-30 19:13:42
+scan 0 results from server succeed for deviceID root.tpc113.cor_5_level_admittance from 2021-05-24 21:42:56 to 2021-05-24 21:43:01
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2022-12-01 12:52:57 to 2022-12-01 12:53:02
+scan 0 results from server succeed for deviceID root.tpc113.side_7_Humidity from 2021-02-26 02:05:26 to 2021-02-26 02:05:31
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2022-12-03 00:59:57 to 2022-12-03 01:00:02
+scan 0 results from server succeed for deviceID root.tpc113.cent_9_level from 2021-10-13 19:06:02 to 2021-10-13 19:06:07
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+write 5000 records to server succeed
+cleanup session(server1:6667) succeed
+[OVERALL], RunTime(ms), 266008.0
+[OVERALL], Throughput(ops/sec), 24435.35532765932
+[TOTAL_GCS_PS_Scavenge], Count, 31.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 965.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.36277104447986525
+[TOTAL_GCS_PS_MarkSweep], Count, 0.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 31.0
+[TOTAL_GC_TIME], Time(ms), 965.0
+[TOTAL_GC_TIME_%], Time(%), 0.36277104447986525
+[CLEANUP], Operations, 10.0
+[CLEANUP], AverageLatency(us), 91098.7
+[CLEANUP], MinLatency(us), 2454.0
+[CLEANUP], MaxLatency(us), 255103.0
+[CLEANUP], 95thPercentileLatency(us), 255103.0
+[CLEANUP], 99thPercentileLatency(us), 255103.0
+[INSERT], Operations, 6499673.0
+[INSERT], AverageLatency(us), 261.1435839926101
+[INSERT], MinLatency(us), 1.0
+[INSERT], MaxLatency(us), 2.1479423E7
+[INSERT], 95thPercentileLatency(us), 6.0
+[INSERT], 99thPercentileLatency(us), 14.0
+[INSERT], Return=OK, 6499673
+[SCAN], Operations, 327.0
+[SCAN], AverageLatency(us), 371258.36697247706
+[SCAN], MinLatency(us), 6872.0
+[SCAN], MaxLatency(us), 2.0938751E7
+[SCAN], 95thPercentileLatency(us), 561663.0
+[SCAN], 99thPercentileLatency(us), 1.4540799E7
+[SCAN], Return=OK, 327

@@ -1,0 +1,23 @@
+
+[0;32mRunning Records test[0m
+[0;32mIoT data size is 300000000[0m
+[0;32mAll Output will be logged to file ./TPCx-IoT-result-Records.log[0m
+
+[0;32m===================================[0m
+[0;32m Running Cluster Validation Suite[0m
+[0;32m===================================[0m
+
+
+
+[0;32m End of Cluster Validation Suite[0m
+
+
+[0;32mChecking if the IoT Data Table exists already [0m
+[0;32mRunning Records test with 3 clients [0m
+[0;32m===================================[0m
+[0;32mDeleting Previous Data - Start - Fri Nov 13 14:41:22 UTC 2020[0m
+[0;32mDeleting Previous Data - End - Fri Nov 13 14:41:23 UTC 2020[0m
+[0;32m===================================[0m
+
+
+[0;32mWarmup Run - Start - Fri Nov 13 14:41:23 UTC 2020[0m
